@@ -1,0 +1,2777 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw uses ClawRouter to access 71 LLMs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:29:00Z",
+            "owner": "BlockRunAI",
+            "repo": "ClawRouter",
+            "stars": 6613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Franklin — the AI agent with a wallet — runs marketing campaigns, trading signals, and content generation autonomously",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:07:12Z",
+            "owner": "BlockRunAI",
+            "repo": "Franklin",
+            "stars": 582
+          }
+        }
+      ],
+      "title": "Web4 The Money Loop 🔄"
+    },
+    {
+      "description": "Latest version with 16-model curated allowlist, image generation, usage reports, and three-strike escalation:",
+      "items": [],
+      "title": "🆕 ClawRouter v0.12.200 - Jun 2026"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trading Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Freqtrade",
+          "description": "⭐ 46.5k - Free, open-source crypto trading bot. Supports all major exchanges (Binance, Hyperliquid, etc.). ML strategy optimization via FreqAI. Telegram control + WebUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:31:00Z",
+            "owner": "freqtrade",
+            "repo": "freqtrade",
+            "stars": 53245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hummingbot",
+          "description": "⭐ 15.9k - Open source market making and liquidity mining bot. Supports 40+ CEXs/DEXs. Customizable strategies in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:21:35Z",
+            "owner": "hummingbot",
+            "repo": "hummingbot",
+            "stars": 19437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRL",
+          "description": "⭐ 11.4k - Deep reinforcement learning for trading. Supports DQN, DDPG, A2C, SAC, PPO, TD3. Crypto environments with Binance API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T23:02:18Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRL",
+            "stars": 15998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jesse",
+          "description": "⭐ 7.4k - Advanced crypto trading bot in Python. Backtesting, paper trading, live trading. Built for algo traders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:49:19Z",
+            "owner": "jesse-ai",
+            "repo": "jesse",
+            "stars": 8315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoBot",
+          "description": "⭐ 5.2k - Open-source bot with AI, Grid, DCA, TradingView strategies. Simple interface, 15+ exchanges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:35:41Z",
+            "owner": "Drakkar-Software",
+            "repo": "OctoBot",
+            "stars": 6387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superalgos",
+          "description": "⭐ 5.3k - Visual crypto trading bot builder. Drag-and-drop strategy design, backtesting, paper trading, multi-server deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:03:03Z",
+            "owner": "Superalgos",
+            "repo": "Superalgos",
+            "stars": 5612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krypto-trading-bot",
+          "description": "⭐ 3.7k - Self-hosted high-frequency market making bot in C++. Low-latency automated trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-15T15:26:06Z",
+            "owner": "ctubio",
+            "repo": "Krypto-trading-bot",
+            "stars": 3708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-trading-bot",
+          "description": "⭐ 3.4k - Multi-exchange crypto trading bot in JavaScript. Supports Bitfinex, Bitmex, Binance, Bybit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T09:16:05Z",
+            "owner": "Haehnchen",
+            "repo": "crypto-trading-bot",
+            "stars": 3511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTrader",
+          "description": "⭐ 2.2k - Open-source DCA & Grid trading bot with UI. Self-hosted, pro features unlocked.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-29T16:24:33Z",
+            "owner": "Open-Trader",
+            "repo": "opentrader",
+            "stars": 2819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sibyl",
+          "description": "AI-powered crypto trading dashboard. Oracle (LLM agent layer) + Chronos (LSTM/GTU price forecasting).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-07T11:56:04Z",
+            "owner": "nMaroulis",
+            "repo": "sibyl",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Crypto Trading"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TradingAgents",
+          "description": "Multi-agent trading framework with specialized analyst, researcher, and trader agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T15:55:05Z",
+            "owner": "TauricResearch",
+            "repo": "TradingAgents",
+            "stars": 97917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBB",
+          "description": "⭐ 60k - Financial data platform for analysts, quants and AI agents. Open-source investment research terminal with AI copilot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:33:42Z",
+            "owner": "OpenBB-finance",
+            "repo": "OpenBB",
+            "stars": 71822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dexter",
+          "description": "⭐ 16.1k - Autonomous agent for deep financial research. AI-powered analysis and investment insights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T15:20:42Z",
+            "owner": "virattt",
+            "repo": "dexter",
+            "stars": 27517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAlice",
+          "description": "⭐ 571 - File-driven AI trading agent engine for crypto and securities markets. Autonomous 24/7 operation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:36:07Z",
+            "owner": "TraderAlice",
+            "repo": "OpenAlice",
+            "stars": 6496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOAT SDK",
+          "description": "⭐ 951 - The leading agentic finance toolkit for AI agents. Connect agents to DeFi protocols, wallets, and on-chain actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T19:10:23Z",
+            "owner": "goat-sdk",
+            "repo": "goat",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nof1.ai",
+          "description": "⭐ 551 - Autonomous AI trading agent. Web-based interface with real-time market monitoring and AI-powered decision making.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T01:49:18Z",
+            "owner": "195440",
+            "repo": "nof1.ai",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Trading Agent (Hyperliquid)",
+          "description": "⭐ 455 - AI trading agent built specifically for Hyperliquid perpetual DEX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T06:44:44Z",
+            "owner": "Gajesh2007",
+            "repo": "ai-trading-agent",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNof1",
+          "description": "⭐ 207 - Your custom 24/7 AI trading agent. Inspired by nof1.ai. Open source and self-hostable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T09:40:22Z",
+            "owner": "wfnuser",
+            "repo": "OpenNof1",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVClaw",
+          "description": "⭐ 29 - OpenClaw AI Trading Agent based on EVPlus.AI market data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T11:43:42Z",
+            "owner": "Degenapetrader",
+            "repo": "EVClaw",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentTrade",
+          "description": "LLM-based trading system using technical analysis, news, and sentiment with reasoning.",
+          "children": []
+        }
+      ],
+      "title": "AI Trading Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solana Trading Bot",
+          "description": "⭐ 2.3k - Beta Solana trading bot. Sniper, swap, and automated trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-10T15:20:20Z",
+            "owner": "warp-id",
+            "repo": "solana-trading-bot",
+            "stars": 2325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-solana-trading-bot",
+          "description": "⭐ 1k - Auto Solana trading bot on Pumpfun, Pumpswap, Raydium Launchpad using gRPC or Shredstream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T22:05:22Z",
+            "owner": "radioman",
+            "repo": "solana-trading-bot",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-sol-bot",
+          "description": "⭐ 404 - Fully open-source Solana copy trading and auto-trading bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-21T15:11:41Z",
+            "owner": "ChainBuff",
+            "repo": "open-sol-bot",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana Trading Bot (Raydium/Pump.fun)",
+          "description": "⭐ 289 - Buy/sell SPL tokens on Raydium DEX and Pump.fun using Jito SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-15T11:34:17Z",
+            "owner": "henrytirla",
+            "repo": "Solana-Trading-Bot",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solana-grpc-sniper-bot",
+          "description": "⭐ 126 - High-speed Solana sniper using gRPC for real-time transaction streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T19:42:24Z",
+            "owner": "0xRustPro",
+            "repo": "solana-grpc-sniper-bundler-bot",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Solana Trading"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artemis",
+          "description": "⭐ 2.9k - Simple, modular, fast MEV bot framework in Rust by Paradigm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-05T03:15:09Z",
+            "owner": "paradigmxyz",
+            "repo": "artemis",
+            "stars": 2959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi-bot",
+          "description": "⭐ 1.2k - Tutorial for building DeFi arbitrage bots. Educational foundation for MEV strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2022-03-22T11:25:05Z",
+            "owner": "ExtropyIO",
+            "repo": "defi-bot",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jito MEV Bot",
+          "description": "⭐ 1.2k - Official Jito Labs MEV bot for Solana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-25T22:04:47Z",
+            "owner": "jito-labs",
+            "repo": "mev-bot",
+            "stars": 1195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-template-rs",
+          "description": "⭐ 727 - Bootstrap MEV bot strategies with Rust boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-14T00:30:40Z",
+            "owner": "degatchi",
+            "repo": "mev-template-rs",
+            "stars": 726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mev-templates",
+          "description": "⭐ 567 - MEV templates in Python/Javascript/Rust. DEX flashloan arbitrage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-11-08T14:33:34Z",
+            "owner": "solidquant",
+            "repo": "mev-templates",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Solana MEV Bot",
+          "description": "⭐ 443 - Rust Solana MEV 套利机器人. High-performance arbitrage bot for Solana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-02T18:28:48Z",
+            "owner": "SaoXuan",
+            "repo": "rust-mev-bot-shared",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "q-evm",
+          "description": "⭐ 421 - MEV Bot and Flashbots Bundler written in q using kdb+. High-performance quantitative approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "q",
+            "last_commit": "2022-09-15T22:47:07Z",
+            "owner": "sambacha",
+            "repo": "q-evm",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum-BNB MEV Bot",
+          "description": "⭐ 357 - Ethereum and BNB (BSC) MEV bot for arbitrage across both chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T01:24:58Z",
+            "owner": "sorasuzukidev",
+            "repo": "ethereum-bnb-mev-bot",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loom",
+          "description": "⭐ 331 - MEV Bot based on Alloy. Modern EVM MEV extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-26T10:51:30Z",
+            "owner": "dexloom",
+            "repo": "loom",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbitrage MEV BOT",
+          "description": "⭐ 613 - Contract for MEV: flash loans, arbitrage, liquidations. Ready to deploy and use.",
+          "children": []
+        }
+      ],
+      "title": "MEV & Arbitrage"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prediction Markets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polymarket Agents",
+          "description": "⭐ 2.2k - Official Polymarket AI agents. Trade autonomously using AI on prediction markets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-11-05T15:40:29Z",
+            "owner": "Polymarket",
+            "repo": "agents",
+            "stars": 3768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prediction Market Analysis",
+          "description": "⭐ 1.7k - Framework for collecting and analyzing prediction market data. Largest public dataset of Polymarket and Kalshi market/trade data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:09:43Z",
+            "owner": "Jon-Becker",
+            "repo": "prediction-market-analysis",
+            "stars": 3749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poly_data",
+          "description": "⭐ 512 - Polymarket data retriever. Fetches, processes markets, order events, and trades.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T22:10:34Z",
+            "owner": "warproxxx",
+            "repo": "poly_data",
+            "stars": 2275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pmxt",
+          "description": "⭐ 592 - Unified API for trading across prediction markets (Polymarket, Kalshi, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T01:45:53Z",
+            "owner": "pmxt-dev",
+            "repo": "pmxt",
+            "stars": 2077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poly-maker",
+          "description": "⭐ 856 - Market making bot for Polymarket. Configurable via Google Sheets. Provides liquidity on both sides of the book.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T18:47:55Z",
+            "owner": "warproxxx",
+            "repo": "poly-maker",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-clob-client",
+          "description": "⭐ 785 - Official Python client for the Polymarket CLOB (Central Limit Order Book).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-05-25T18:13:33Z",
+            "owner": "Polymarket",
+            "repo": "py-clob-client",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolymarketBTC15mAssistant",
+          "description": "⭐ 490 - Real-time Polymarket BTC 15m trading assistant for every trader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T22:25:24Z",
+            "owner": "FrondEnt",
+            "repo": "PolymarketBTC15mAssistant",
+            "stars": 736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rs-clob-client",
+          "description": "⭐ 520 - Official Polymarket Rust CLOB client. High-performance order book access.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-05-11T17:14:31Z",
+            "owner": "Polymarket",
+            "repo": "rs-clob-client",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyseer",
+          "description": "⭐ 562 - Polymarket alpha at the speed of now. Real-time alerts and signals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T19:20:19Z",
+            "owner": "yorkeccak",
+            "repo": "Polyseer",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clob-client (TS)",
+          "description": "⭐ 441 - Official TypeScript client for the Polymarket CLOB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T18:13:38Z",
+            "owner": "Polymarket",
+            "repo": "clob-client",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cross-Market State Fusion",
+          "description": "⭐ 343 - RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-03T18:56:14Z",
+            "owner": "humanplane",
+            "repo": "cross-market-state-fusion",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymarket Copy Trading Bot",
+          "description": "⭐ 822 - Copy trading bot for Polymarket. Follow successful traders automatically.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Polymarket Copy Bot (TS)",
+          "description": "⭐ 819 - Polymarket copy trading bot in TypeScript. Follow top traders automatically.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Kalshi-Polymarket AI Bot",
+          "description": "⭐ 689 - AI-powered bot for trading on both Kalshi and Polymarket prediction markets.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Polymarket RSI/MACD Bot",
+          "description": "⭐ 484 - Polymarket trading bot combining RSI/MACD strategy logic for 15-minute prediction markets.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Polymarket Spike Bot",
+          "description": "⭐ 310 - High-frequency Polymarket trading bot with real-time price monitoring, automated spike detection, and smart order execution.",
+          "children": []
+        }
+      ],
+      "title": "Polymarket Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polymarket-kalshi-btc-arbitrage-bot",
+          "description": "Real-time arbitrage between Polymarket and Kalshi on Bitcoin markets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T17:15:18Z",
+            "owner": "CarlosIbCu",
+            "repo": "polymarket-kalshi-btc-arbitrage-bot",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prediction-market-arbitrage-bot",
+          "description": "Synthetic arbitrage (buy YES on one platform, NO on another).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-16T09:44:09Z",
+            "owner": "realfishsam",
+            "repo": "prediction-market-arbitrage-bot",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "Arbitrage Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yield-farmers-almanac",
+          "description": "Community-sourced DeFi yield farming opportunities database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-20T19:08:48Z",
+            "owner": "corbinpage",
+            "repo": "yield-farmers-almanac",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi-Yield-AutoFarming",
+          "description": "Automated yield farming with auto-reinvestment, pool optimization, risk management.",
+          "children": []
+        }
+      ],
+      "title": "DeFi & Yield Farming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MasterCryptoFarmBot",
+          "description": "⭐ 232 - Foundation for building crypto farming and airdrop bots for Telegram-based games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-09T14:49:55Z",
+            "owner": "masterking32",
+            "repo": "MasterCryptoFarmBot",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram-Airdrop-Bot",
+          "description": "⭐ 211 - Manage Telegram airdrops on ERC-20, BEP-20 tokens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T19:45:58Z",
+            "owner": "fabston",
+            "repo": "Telegram-Airdrop-Bot",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t3rn-airdrop-bot",
+          "description": "⭐ 208 - Automate transactions and bridging on t3rn network for airdrop farming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-14T13:26:52Z",
+            "owner": "dante4rt",
+            "repo": "t3rn-airdrop-bot",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blum-airdrop-bot",
+          "description": "⭐ 137 - Automate Blum airdrop: claim rewards, manage farming, complete tasks, play games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-21T16:54:43Z",
+            "owner": "dante4rt",
+            "repo": "blum-airdrop-bot",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodepay-airdrop-bot",
+          "description": "⭐ 110 - Automate Nodepay airdrop with session management and proxy support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-23T02:19:28Z",
+            "owner": "dante4rt",
+            "repo": "nodepay-airdrop-bot",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polyflow-airdrop-bot",
+          "description": "⭐ 105 - Farm Scan2Earn points on PolyFlow by auto-uploading invoices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-21T16:47:22Z",
+            "owner": "dante4rt",
+            "repo": "polyflow-airdrop-bot",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Airdrop Farming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lead Generation & Sales"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenOutreach",
+          "description": "⭐ 1.1k - LinkedIn automation: visit profiles, connect, message with AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:22:20Z",
+            "owner": "eracle",
+            "repo": "OpenOutreach",
+            "stars": 2688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linvo-scraper",
+          "description": "⭐ 625 - LinkedIn automation with comprehensive scraping. Production-grade.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-11T17:20:18Z",
+            "owner": "linvo-io",
+            "repo": "linvo-scraper",
+            "stars": 628
+          }
+        }
+      ],
+      "title": "LinkedIn Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScrapeGraphAI",
+          "description": "⭐ 22.6k - Python scraper based on AI. Uses LLMs to understand and extract structured data from any website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:22:20Z",
+            "owner": "ScrapeGraphAI",
+            "repo": "Scrapegraph-ai",
+            "stars": 29450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT Scraper",
+          "description": "⭐ 3.8k - Collect ChatGPT responses via Web Scraper API. Automated prompt responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-22T14:39:54Z",
+            "owner": "oxylabs",
+            "repo": "chatgpt-scraper",
+            "stars": 3269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google-Maps-Scraper",
+          "description": "⭐ 1.4k - Bulk scrape Google Maps (names, addresses, phones, emails, ratings).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T05:22:58Z",
+            "owner": "omkarcloud",
+            "repo": "google-maps-scraper",
+            "stars": 3090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SalesGPT",
+          "description": "⭐ 2.2k+ - Context-aware AI sales agent for voice, email, SMS. Autonomous across sales funnel stages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-17T00:03:26Z",
+            "owner": "filip-michalsky",
+            "repo": "SalesGPT",
+            "stars": 2721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-web-scraper",
+          "description": "AI web scraper using Crawl4AI. Supports GPT-4o, Claude, DeepSeek, Gemini via LiteLLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-13T10:47:33Z",
+            "owner": "kaymen99",
+            "repo": "ai-web-scraper",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-lead-generator",
+          "description": "AI-powered lead gen using Bright Data scraping + OpenAI for qualification/enrichment. Streamlit UI with instant lead scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T10:01:19Z",
+            "owner": "brightdata",
+            "repo": "ai-lead-generator",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Lead Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MoneyPrinterTurbo",
+          "description": "⭐ 44k - AI one-click HD short video generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:41:56Z",
+            "owner": "harry0703",
+            "repo": "MoneyPrinterTurbo",
+            "stars": 102883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoneyPrinterV2",
+          "description": "⭐ 13k - Automate the process of making money online. Full automation pipeline for content creation and publishing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T08:36:16Z",
+            "owner": "FujiwaraChoki",
+            "repo": "MoneyPrinterV2",
+            "stars": 31561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CogVideo",
+          "description": "⭐ 12k - Text/image to video generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T11:19:04Z",
+            "owner": "zai-org",
+            "repo": "CogVideo",
+            "stars": 12952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoraFM",
+          "description": "⭐ 1.1k - Sora AI Video Generator web interface. Generate videos with OpenAI Sora API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T00:24:47Z",
+            "owner": "all-in-aigc",
+            "repo": "sorafm",
+            "stars": 1152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YumCut",
+          "description": "⭐ 772 - Free AI video generator for TikTok, Reels, YouTube Shorts. Auto script, scenes, voiceover, subtitles. Multi-language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:05:43Z",
+            "owner": "IgorShadurin",
+            "repo": "app.yumcut.com",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Video Generator Agent",
+          "description": "⭐ 126 - AI agent that automatically generates and posts short videos. Full automation pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-26T02:10:03Z",
+            "owner": "davide97l",
+            "repo": "ai-video-generator",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Content Creation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "youtube-automation-agent",
+          "description": "⭐ 49 - Fully automated YouTube channel with AI agents. Creates, optimizes, publishes 24/7. Works with free Gemini API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T04:06:54Z",
+            "owner": "darkzOGx",
+            "repo": "youtube-automation-agent",
+            "stars": 1802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-youtube-automation",
+          "description": "⭐ 219 - Fully autonomous AI pipeline using Gemini to generate and upload educational videos to YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:23:15Z",
+            "owner": "ChaitanyaEswarRajeshJakki",
+            "repo": "gemini-youtube-automation",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "YouTube Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALwrity",
+          "description": "AI Digital Marketing Platform with RAG, SEO, multilingual. Blog Writer (Research→Outline→Content→SEO→Publish).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:09:09Z",
+            "owner": "ALwrity",
+            "repo": "ALwrity",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto_Social_Media_Content_Generator",
+          "description": "Automation for Facebook, Instagram, X, LinkedIn with AI text + Canva images. Auto-posts every 2 days.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-18T18:30:59Z",
+            "owner": "PatrykIA",
+            "repo": "Auto_Social_Media_Content_Generator",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Social Media Automation"
+    },
+    {
+      "description": "Build monetizable AI agents with these frameworks:",
+      "items": [],
+      "title": "AI Agent Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoGPT",
+          "description": "⭐ 177k - Accessible AI tools for building autonomous agents. Forge for agent creation, benchmarks, leaderboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:44:04Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "⭐ 112k - Framework for context-aware reasoning applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM Apps",
+          "description": "⭐ 95.4k - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini, and open-source models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:26:18Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 132390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini CLI",
+          "description": "⭐ 94.6k - Google's open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:19:22Z",
+            "owner": "google-gemini",
+            "repo": "gemini-cli",
+            "stars": 106497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Agents for Beginners",
+          "description": "⭐ 50.6k - Microsoft's 12 lessons to get started building AI agents. Comprehensive curriculum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-29T19:47:29Z",
+            "owner": "microsoft",
+            "repo": "ai-agents-for-beginners",
+            "stars": 72034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "⭐ 64k - The Multi-Agent Framework: First AI Software Company. Assigns roles to agents (Product Manager, Architect, Engineer).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": "⭐ 62k - A natural language interface for computers. Run code, control your computer with plain English.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 67988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anything LLM",
+          "description": "⭐ 54.6k - All-in-one Desktop & Docker AI application with built-in RAG, AI agents, no-code agent builder, MCP compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:34:53Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 64673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warp",
+          "description": "⭐ 25.9k - The agentic development environment, built for coding with multiple AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:58:44Z",
+            "owner": "warpdotdev",
+            "repo": "warp",
+            "stars": 64176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mem0",
+          "description": "⭐ 47.4k - Universal memory layer for AI Agents. Persistent memory across sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:01:09Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Autogen",
+          "description": "⭐ 54.5k - A programming framework for agentic AI. Multi-agent conversations, tool use, code execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "⭐ 44.2k - Lean, fast Python framework for orchestrating role-playing AI agents with collaborative intelligence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:43:26Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowise",
+          "description": "⭐ 49.1k - Build AI Agents visually. Drag-and-drop LLM flow builder with API endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:56:00Z",
+            "owner": "FlowiseAI",
+            "repo": "Flowise",
+            "stars": 55363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Block Goose",
+          "description": "⭐ 30.5k - Open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T05:54:20Z",
+            "owner": "aaif-goose",
+            "repo": "goose",
+            "stars": 52742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": "⭐ 43k - Data-centric agents with RAG primitives. 500+ connectors via LlamaHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:49Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cherry Studio",
+          "description": "⭐ 40k - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:02:31Z",
+            "owner": "CherryHQ",
+            "repo": "cherry-studio",
+            "stars": 50371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/nanobot",
+          "description": "⭐ 27.4k - Ultra-Lightweight OpenClaw. Minimal footprint, full capability — ideal for edge deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:05:05Z",
+            "owner": "HKUDS",
+            "repo": "nanobot",
+            "stars": 46915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolJet",
+          "description": "⭐ 37.4k - Open-source foundation of ToolJet AI - AI-native platform for building internal tools, dashboards, workflows and AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:03:12Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 38617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-TARS Desktop",
+          "description": "⭐ 28k - ByteDance's open-source multimodal AI agent stack connecting AI models and agent infra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T02:48:59Z",
+            "owner": "bytedance",
+            "repo": "UI-TARS-desktop",
+            "stars": 38571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentGPT",
+          "description": "⭐ 35.7k - Assemble, configure, and deploy autonomous AI Agents in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-29T01:19:32Z",
+            "owner": "reworkd",
+            "repo": "AgentGPT",
+            "stars": 36304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOfficeAI/AionUi",
+          "description": "⭐ 17.6k - Free, local, open-source 24/7 cowork app and OpenClaw for Gemini CLI, Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:01:22Z",
+            "owner": "iOfficeAI",
+            "repo": "AionUi",
+            "stars": 31939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qwibitai/nanoclaw",
+          "description": "⭐ 17.2k - Lightweight alternative to OpenClaw that runs in containers for security and scalability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:39:45Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jobs Applier AI Agent (AIHawk)",
+          "description": "⭐ 29.3k - AI agent that automates job hunt by applying to multiple jobs in a tailored way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:50:14Z",
+            "owner": "feder-cr",
+            "repo": "Jobs_Applier_AI_Agent_AIHawk",
+            "stars": 30159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphiti",
+          "description": "⭐ 22.8k - Build real-time knowledge graphs for AI agents. Persistent structured memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:36:08Z",
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 29873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composio",
+          "description": "⭐ 26.6k - Equips AI agents & LLMs with 100+ high-quality integrations via function calling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:31:40Z",
+            "owner": "ComposioHQ",
+            "repo": "composio",
+            "stars": 29664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sim Studio",
+          "description": "⭐ 26.4k - Open-source platform to build and deploy AI agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:01:07Z",
+            "owner": "simstudioai",
+            "repo": "sim",
+            "stars": 29417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smolagents",
+          "description": "⭐ 25.4k - HuggingFace's barebones library for agents that think in code. Simple, hackable, powerful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T18:35:00Z",
+            "owner": "huggingface",
+            "repo": "smolagents",
+            "stars": 28786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Agents Python",
+          "description": "⭐ 19.1k - OpenAI's lightweight, powerful framework for multi-agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:01:12Z",
+            "owner": "openai",
+            "repo": "openai-agents-python",
+            "stars": 28597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen Code",
+          "description": "⭐ 18.4k - Open-source AI agent that lives in your terminal, powered by Qwen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:56:38Z",
+            "owner": "QwenLM",
+            "repo": "qwen-code",
+            "stars": 26958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgenticSeek",
+          "description": "⭐ 25.1k - Fully local autonomous agent. No APIs, no subscriptions. Thinks, browses the web, and codes locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:14:08Z",
+            "owner": "Fosowl",
+            "repo": "agenticSeek",
+            "stars": 26791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roo Code",
+          "description": "⭐ 22.2k - A whole dev team of AI agents in your code editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T18:08:47Z",
+            "owner": "RooCodeInc",
+            "repo": "Roo-Code",
+            "stars": 24348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenAI Agents",
+          "description": "⭐ 20k - In-depth tutorials and implementations for various Generative AI Agent techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T21:07:06Z",
+            "owner": "NirDiamant",
+            "repo": "GenAI_Agents",
+            "stars": 23780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Activepieces",
+          "description": "⭐ 20.8k - AI Agents & MCPs & AI Workflow Automation with ~400 MCP servers for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:14:09Z",
+            "owner": "activepieces",
+            "repo": "activepieces",
+            "stars": 23754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coze Studio",
+          "description": "⭐ 19.9k - AI agent development platform with all-in-one visual tools for creation, debugging, and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T03:18:43Z",
+            "owner": "coze-dev",
+            "repo": "coze-studio",
+            "stars": 21445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suna (Kortix)",
+          "description": "⭐ 19.4k - Build, manage and train AI Agents with Kortix platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:30:15Z",
+            "owner": "kortix-ai",
+            "repo": "suna",
+            "stars": 20095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB-GPT",
+          "description": "⭐ 18.1k - AI Native Data App Development framework with Agentic Workflow Expression Language (AWEL) and Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:31:45Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pydantic-AI",
+          "description": "GenAI Agent Framework with validation layer for OpenAI, Anthropic, Google SDKs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:05:22Z",
+            "owner": "pydantic",
+            "repo": "pydantic-ai",
+            "stars": 19261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eliza",
+          "description": "⭐ 17.5k - Autonomous agents for everyone. Popular framework for crypto/social media agents. Multi-platform (Discord, Twitter, Telegram).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:03:40Z",
+            "owner": "elizaOS",
+            "repo": "eliza",
+            "stars": 19036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAGI",
+          "description": "⭐ 17.2k - Dev-first open source autonomous AI agent framework. Build, manage & run useful agents quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T22:14:07Z",
+            "owner": "TransformerOptimus",
+            "repo": "SuperAGI",
+            "stars": 17653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-Agent",
+          "description": "⭐ 13.2k - Agent framework built on Qwen. Features Function Calling, MCP, Code Interpreter, RAG, Chrome extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T08:15:07Z",
+            "owner": "QwenLM",
+            "repo": "Qwen-Agent",
+            "stars": 16958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plandex",
+          "description": "⭐ 15k - Open source AI coding agent designed for large projects and real world tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T21:49:58Z",
+            "owner": "plandex-ai",
+            "repo": "plandex",
+            "stars": 15580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NevaMind-AI/memU",
+          "description": "⭐ 12.2k - Memory layer for 24/7 proactive agents (OpenClaw, Moltbot, Clawdbot). Long-term context across sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:38:44Z",
+            "owner": "NevaMind-AI",
+            "repo": "memU",
+            "stars": 14297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCode",
+          "description": "⭐ 11.1k - Powerful AI coding agent built for the terminal. Open-source alternative to proprietary coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-09-18T02:54:28Z",
+            "owner": "opencode-ai",
+            "repo": "opencode",
+            "stars": 13641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Agent Framework",
+          "description": "⭐ 7.4k - Framework for building, orchestrating and deploying AI agents and multi-agent workflows (Python and .NET).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:04:32Z",
+            "owner": "microsoft",
+            "repo": "agent-framework",
+            "stars": 12759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent",
+          "description": "⭐ 5.7k - AI Agent Engineering Platform built on TypeScript. Production-ready agent orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:24:53Z",
+            "owner": "VoltAgent",
+            "repo": "voltagent",
+            "stars": 10347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraisonAI",
+          "description": "⭐ 5.6k - Production-ready Multi AI Agents framework. Low-code solution for building and managing multi-agent LLM systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:20:08Z",
+            "owner": "MervinPraison",
+            "repo": "PraisonAI",
+            "stars": 8833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/ClawWork",
+          "description": "⭐ 6k - OpenClaw as Your AI Coworker. Autonomous 24/7 task execution — $10K earned in 7 hours (case study).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T15:32:37Z",
+            "owner": "HKUDS",
+            "repo": "ClawWork",
+            "stars": 8345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentOps",
+          "description": "⭐ 5.3k - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking. Integrates with CrewAI, Langchain, Autogen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T08:25:03Z",
+            "owner": "AgentOps-AI",
+            "repo": "agentops",
+            "stars": 5769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Franklin",
+          "description": "⭐ FEATURED - The first Autonomous Economic Agent. Natively spends USDC via x402 micropayments to execute real work — marketing campaigns, trading signals, content generation. Smart model routing, self-learning, plugin system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:07:12Z",
+            "owner": "BlockRunAI",
+            "repo": "Franklin",
+            "stars": 582
+          }
+        }
+      ],
+      "title": "General Agent Frameworks"
+    },
+    {
+      "description": "Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in production.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClawX",
+          "description": "⭐ 3.3k - Desktop app GUI for OpenClaw AI agents. Turns CLI-based AI orchestration into a visual desktop experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:09:04Z",
+            "owner": "ValueCell-ai",
+            "repo": "ClawX",
+            "stars": 7591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-dashboard",
+          "description": "⭐ 334 - Secure, real-time monitoring dashboard for OpenClaw. Auth, TOTP MFA, cost tracking, live feed, memory browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-17T10:49:12Z",
+            "owner": "tugcantopaloglu",
+            "repo": "openclaw-dashboard",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawApp",
+          "description": "⭐ 208 - Mobile chat client for OpenClaw AI Agent. Streaming conversations, image support, tool calls. PWA + APK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-07T03:14:45Z",
+            "owner": "qingchencloud",
+            "repo": "clawapp",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-operator",
+          "description": "⭐ 160 - Kubernetes operator for deploying and managing OpenClaw agent instances with production-grade security, observability, and lifecycle management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:17:51Z",
+            "owner": "paperclipinc",
+            "repo": "openclaw-operator",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clawmetry",
+          "description": "⭐ 141 - Real-time observability dashboard for OpenClaw agents. See your agent think.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:50:40Z",
+            "owner": "vivekchand",
+            "repo": "clawmetry",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-kapso-whatsapp",
+          "description": "⭐ 145 - Give your OpenClaw agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-29T17:46:25Z",
+            "owner": "Enriquefft",
+            "repo": "openclaw-kapso-whatsapp",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawBands",
+          "description": "⭐ 170 - Security middleware for OpenClaw AI agents. Protect against prompt injection, enforce policies, audit actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-09T12:54:39Z",
+            "owner": "SeyZ",
+            "repo": "clawbands",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless-openclaw",
+          "description": "⭐ 141 - Run OpenClaw on AWS serverless infrastructure with Web UI and Telegram interfaces. Cost target ~$1/month.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-29T04:05:25Z",
+            "owner": "serithemage",
+            "repo": "serverless-openclaw",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirClaw",
+          "description": "⭐ 54 - Run OpenClaw with zero API cost using local LLM via AirLLM. Completely free inference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T21:55:50Z",
+            "owner": "nickzsche21",
+            "repo": "VocalClaw_11Labs",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clawhost",
+          "description": "⭐ 234 - One-click cloud hosting for OpenClaw AI agents. Instant deployment without infrastructure setup.",
+          "children": []
+        }
+      ],
+      "title": "OpenClaw Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "browser-use",
+          "description": "⭐ 78.1k - Make websites accessible for AI agents. Automate any web task with natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:33:21Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 109018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "⭐ 21k - The AI Browser Automation Framework. Built on Playwright with AI-powered element selection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:49:07Z",
+            "owner": "browserbase",
+            "repo": "stagehand",
+            "stars": 23928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skyvern",
+          "description": "⭐ 20.4k - Automate browser-based workflows with AI. Computer vision + LLM for robust web automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:19:06Z",
+            "owner": "Skyvern-AI",
+            "repo": "skyvern",
+            "stars": 22742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaVague",
+          "description": "⭐ 6.3k - Large Action Model framework to develop AI Web Agents. Natural language to browser actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T13:41:48Z",
+            "owner": "lavague-ai",
+            "repo": "LaVague",
+            "stars": 6386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowUI",
+          "description": "⭐ 1.7k - Vision-Language-Action model for GUI Agent & Computer Use. CVPR 2025 paper implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T07:16:50Z",
+            "owner": "showlab",
+            "repo": "ShowUI",
+            "stars": 1890
+          }
+        }
+      ],
+      "title": "Browser Automation Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-openclaw-skills",
+          "description": "⭐ 24.5k - Curated collection of OpenClaw skills. 5,400+ skills filtered and categorized.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:52:15Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-openclaw-skills",
+            "stars": 51925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw/clawhub",
+          "description": "⭐ 1.4k - Official skill directory and marketplace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:30:02Z",
+            "owner": "openclaw",
+            "repo": "clawhub",
+            "stars": 9298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clawdbot-ai/awesome-openclaw-skills-zh",
+          "description": "⭐ 1.5k - OpenClaw 中文官方技能库. Translated from Clawdbot official skills, organized by scenario.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T11:39:31Z",
+            "owner": "clawdbot-ai",
+            "repo": "awesome-openclaw-skills-zh",
+            "stars": 4140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BankrBot/openclaw-skills",
+          "description": "Polymarket, crypto trading, DeFi, leverage, portfolio management, NFTs. Multi-chain support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T17:24:47Z",
+            "owner": "BankrBot",
+            "repo": "skills",
+            "stars": 1179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ythx-101/x-tweet-fetcher",
+          "description": "⭐ 302 - Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:47:04Z",
+            "owner": "ythx-101",
+            "repo": "x-tweet-fetcher",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sundial-org/awesome-openclaw-skills",
+          "description": "⭐ 341 - Top OpenClaw skills, curated for popularity and usefulness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T06:57:19Z",
+            "owner": "sundial-org",
+            "repo": "awesome-openclaw-skills",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zscole/model-hierarchy-skill",
+          "description": "⭐ 322 - OpenClaw skill for cost-optimized model routing based on task complexity. ClawRouter-compatible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-16T16:55:41Z",
+            "owner": "zscole",
+            "repo": "model-hierarchy-skill",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sharbelxyz/x-bookmarks",
+          "description": "⭐ 226 - OpenClaw skill: turn your X bookmarks into agent actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-15T08:44:03Z",
+            "owner": "sharbelxyz",
+            "repo": "x-bookmarks",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openclaw-ai-polymarket-trading-bot",
+          "description": "⭐ 29 - OpenClaw AI Polymarket Trading Bot. Predicts crypto price on 5m BTC Up/Down markets and auto-executes paper or live trades.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T14:00:29Z",
+            "owner": "solcanine",
+            "repo": "solcanine",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockRunAI/socialclaw",
+          "description": "⭐ 3 - X/Twitter intelligence + content optimization skill. Research accounts, track trends, draft algorithm-optimized posts, monitor engagement. Works with Claude Code, Codex, Gemini CLI, Cursor. $0.08/report via USDC micropayments.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ClawdTalk",
+          "description": "Phone calling and SMS for OpenClaw via Telnyx. AI agents can make/receive calls and SMS with calendar, Jira, and web search integration.",
+          "children": []
+        }
+      ],
+      "title": "OpenClaw Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n8n-ai-automations",
+          "description": "Advanced workflows: law firm lead gen, competitor UGC analysis, personalized outreach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-02T20:09:37Z",
+            "owner": "lucaswalter",
+            "repo": "n8n-ai-automations",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n-workflow-builder",
+          "description": "⭐ 479 - AI assistant for n8n via MCP. Connect Claude, ChatGPT to n8n for natural language workflow management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T11:11:52Z",
+            "owner": "makafeli",
+            "repo": "n8n-workflow-builder",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n-skills",
+          "description": "⭐ 188 - n8n Workflow Automation Skills Suite designed for AI assistants. Ready-to-use workflow templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:45:33Z",
+            "owner": "haunchen",
+            "repo": "n8n-skills",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-automation-jsons",
+          "description": "Collection of n8n workflow JSONs for AI agents, integrations, automated processes. Ready-to-import.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-21T02:55:39Z",
+            "owner": "simealdana",
+            "repo": "ai-automation-jsons",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N8N-Workflows",
+          "description": "Real-world n8n automation for lead gen, AI agents, web scraping, social media.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-25T16:58:39Z",
+            "owner": "DINAKAR-S",
+            "repo": "N8N-Workflows",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Workflow Automation"
+    },
+    {
+      "description": "Model Context Protocol (MCP) enables AI agents to connect to external tools and data sources. These servers unlock new monetization opportunities for agents.",
+      "items": [],
+      "title": "MCP Servers & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome MCP Servers",
+          "description": "⭐ 81k - The definitive collection of MCP servers. 500+ servers across all categories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context7",
+          "description": "⭐ 46k - Up-to-date code documentation MCP server. Gives AI agents current docs instead of stale training data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:48:22Z",
+            "owner": "upstash",
+            "repo": "context7",
+            "stars": 60670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastMCP",
+          "description": "⭐ 22.9k - The fast, Pythonic way to build MCP servers. Production-ready framework for building custom servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:27:46Z",
+            "owner": "PrefectHQ",
+            "repo": "fastmcp",
+            "stars": 27197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP-Use",
+          "description": "⭐ 9.2k - Easiest way to interact with MCP servers using custom agents. Agent-first MCP client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:00:53Z",
+            "owner": "mcp-use",
+            "repo": "mcp-use",
+            "stars": 10485
+          }
+        }
+      ],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "⭐ 38.5k - Federated Query Engine for AI. The only MCP Server you'll ever need for database access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub MCP Server",
+          "description": "⭐ 27k - GitHub's official MCP server. Agents can manage repos, issues, PRs, code search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:40:55Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenAI Toolbox",
+          "description": "⭐ 13k - Google's MCP Toolbox for Databases. Connect AI to PostgreSQL, MySQL, BigQuery, Spanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T06:44:17Z",
+            "owner": "googleapis",
+            "repo": "mcp-toolbox",
+            "stars": 16165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-MCP",
+          "description": "⭐ 7.6k - Free remote MCP server for any GitHub project. Eliminates code hallucinations with real repo context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T14:21:24Z",
+            "owner": "idosal",
+            "repo": "git-mcp",
+            "stars": 8326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockrun-mcp",
+          "description": "⭐ 465 - Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. Also available hosted at (zero install).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "BlockRunAI",
+            "repo": "blockrun-mcp",
+            "stars": 426
+          }
+        }
+      ],
+      "title": "Data & APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playwright MCP",
+          "description": "⭐ 27.3k - Microsoft's official Playwright MCP server. Full browser automation for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:20Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figma Context MCP",
+          "description": "⭐ 13.2k - Provides Figma layout info to AI coding agents. Design-to-code automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T04:58:42Z",
+            "owner": "GLips",
+            "repo": "Figma-Context-MCP",
+            "stars": 15644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Chrome",
+          "description": "⭐ 10.4k - Chrome extension MCP server. Browser automation, content analysis, semantic search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-06T13:05:39Z",
+            "owner": "hangwin",
+            "repo": "mcp-chrome",
+            "stars": 12293
+          }
+        }
+      ],
+      "title": "Browser & Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serena",
+          "description": "⭐ 20.3k - Coding agent toolkit with semantic retrieval and editing. Production-ready code intelligence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:06:48Z",
+            "owner": "oraios",
+            "repo": "serena",
+            "stars": 27946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HexStrike AI",
+          "description": "⭐ 6.9k - MCP server with 150+ cybersecurity tools. Automated pentesting, vulnerability discovery, bug bounty automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T14:33:09Z",
+            "owner": "0x4m4",
+            "repo": "hexstrike-ai",
+            "stars": 10971
+          }
+        }
+      ],
+      "title": "Security & Research"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources & Directories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "500-AI-Agents-Projects",
+          "description": "Curated AI agent use cases across industries (healthcare, finance, education, retail).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:40:40Z",
+            "owner": "ashishpatel26",
+            "repo": "500-AI-Agents-Projects",
+            "stars": 36274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesamsheikh/awesome-openclaw-usecases",
+          "description": "⭐ 15k - Community collection of OpenClaw use cases for making life (and money) easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-24T14:54:56Z",
+            "owner": "hesamsheikh",
+            "repo": "awesome-openclaw-usecases",
+            "stars": 31673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2b-dev/awesome-ai-agents",
+          "description": "⭐ 25.7k - Comprehensive list of AI autonomous agents. Well-maintained with categories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T17:41:48Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HKUDS/ClawWork",
+          "description": "⭐ 6k - Case study: OpenClaw as autonomous AI coworker earning $10K in 7 hours.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T15:32:37Z",
+            "owner": "HKUDS",
+            "repo": "ClawWork",
+            "stars": 8345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlexAnys/awesome-openclaw-usecases-zh",
+          "description": "⭐ 1.3k - 🇨🇳 OpenClaw 中文最佳用例大全 | 40 real-world scenarios adapted for China (domestic services + global platforms). Beginner-friendly Chinese guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-12T10:14:25Z",
+            "owner": "AlexAnys",
+            "repo": "awesome-openclaw-usecases-zh",
+            "stars": 4414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agents",
+          "description": "300+ agentic AI resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T22:33:26Z",
+            "owner": "slavakurilyak",
+            "repo": "awesome-ai-agents",
+            "stars": 2159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome_ai_agents",
+          "description": "1,500+ AI agent resources and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-28T08:28:51Z",
+            "owner": "jim-schwoebel",
+            "repo": "awesome_ai_agents",
+            "stars": 1930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MakeMoneyWithAI",
+          "description": "Curated list of open-source AI projects for generating income.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:43:34Z",
+            "owner": "garylab",
+            "repo": "MakeMoneyWithAI",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI-Agent-Platforms-Automation-Tools",
+          "description": "Directory of autonomous AI agents, frameworks, platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-30T01:41:44Z",
+            "owner": "rembertdesigns",
+            "repo": "AI-Agent-Platforms-Automation-Tools",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockRunAI/awesome-blockrun",
+          "description": "⭐ 14 - BlockRun ecosystem hub — docs, SDKs, research, and community. Start here for everything in the x402-native agent stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:23:21Z",
+            "owner": "BlockRunAI",
+            "repo": "awesome-blockrun",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClawRouter v0.12.200",
+          "description": "⭐ 6.5k - Smart LLM router, save 87% on inference. 16-model curated allowlist, one USDC wallet. Features: Response caching, 4 routing profiles, , , three-strike escalation, , tool-calling filter, session persistence, , multilingual support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:29:00Z",
+            "owner": "BlockRunAI",
+            "repo": "ClawRouter",
+            "stars": 6613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockrun-mcp",
+          "description": "⭐ 465 - Live data MCP server for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:56:34Z",
+            "owner": "BlockRunAI",
+            "repo": "blockrun-mcp",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockRun SDKs — OpenAI-compatible, pay-per-call USDC, zero rate limits: Python",
+          "description": "TypeScript · Go · XRPL/RLUSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:17:29Z",
+            "owner": "BlockRunAI",
+            "repo": "blockrun-llm",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockrun-mcp-server",
+          "description": "Hosted MCP at — one URL, any agent, zero install.",
+          "children": []
+        }
+      ],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Popular Models on BlockRun (Jun 2026)"
+    },
+    {
+      "description": "Blended cost: $2.05/M tokens vs $25/M (Opus) = 87% savings\nPro tip: Use profile for maximum savings. Gemini 2.5 Flash Lite at $0.10/$0.40 is the cheapest option (ECO tier default). Kimi K2.5 offers 262K context at $0.60/$3.00 for long documents. Use for on-demand image generation via x402 micropayments.",
+      "items": [],
+      "title": "Cost Considerations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security Warnings"
+    },
+    {
+      "description": "⚠️ 341 malicious skills found stealing credentials (Feb 2026). Always audit skill code before installing.",
+      "items": [],
+      "title": "ClawHub Marketplace"
+    },
+    {
+      "description": "This list is for educational purposes. Trading involves substantial risk. Many people lose money. Do your own research. Not financial advice.",
+      "items": [],
+      "title": "Disclaimer"
+    },
+    {
+      "description": "To the extent possible under law, BlockRun has waived all copyright and related rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:04:02.542Z",
+    "original_repository": "BlockRunAI/awesome-OpenClaw-Money-Maker",
+    "original_repository_sha": "115cc564de93c599ad7b637583dee31e7f4f8e3f",
+    "enhanced_repository": "enhansome/enhansome-OpenClaw-Money-Maker",
+    "enhanced_repository_description": null,
+    "title": "Awesome OpenClaw Money Maker 🦞💰 with stars"
+  }
+}
