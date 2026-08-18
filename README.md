@@ -1,10 +1,10 @@
 # Awesome OpenClaw Money Maker 🦞💰 with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=social)](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) ⭐ 294 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-17
+[![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=social)](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) ⭐ 295 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-17
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of open-source tools and repos for making money with AI agents like [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,505 | 🐛 5,587 | 🌐 TypeScript | 📅 2026-08-17.
+> A curated list of open-source tools and repos for making money with AI agents like [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,584 | 🐛 5,715 | 🌐 TypeScript | 📅 2026-08-18.
 
 **Reality check:** These are potential earnings, not guarantees. Factor in API/token costs, time investment, and market competition.
 
@@ -24,7 +24,7 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-1. **OpenClaw uses [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,558 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17** to access <!-- br:models.chatVisible -->71<!-- /br:models.chatVisible --> LLMs
+1. **OpenClaw uses [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,561 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17** to access <!-- br:models.chatVisible -->71<!-- /br:models.chatVisible --> LLMs
 2. **[Franklin](https://github.com/BlockRunAI/franklin) ⭐ 546 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 — the AI agent with a wallet** — runs marketing campaigns, trading signals, and content generation autonomously
 3. **Fund your wallet** with USDC (on Base)
 4. **Pay-per-request** via x402 micropayments - no API keys, no subscriptions
@@ -32,7 +32,7 @@
 6. **LLM executes tasks** that generate income
 7. **Profit funds more usage** - creating a self-sustaining money loop
 
-**Get started:** [Franklin](https://github.com/BlockRunAI/franklin) ⭐ 546 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 ⭐ | [ClawRouter v0.12.200](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,558 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 6.5k | [BlockRun.ai](https://blockrun.ai)
+**Get started:** [Franklin](https://github.com/BlockRunAI/franklin) ⭐ 546 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 ⭐ | [ClawRouter v0.12.200](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,561 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 6.5k | [BlockRun.ai](https://blockrun.ai)
 
 ### 🆕 ClawRouter v0.12.200 - Jun 2026
 
@@ -139,25 +139,25 @@ franklin  # launch the agent
 
 ### Crypto Trading
 
-* [**Freqtrade**](https://github.com/freqtrade/freqtrade) ⭐ 53,361 | 🐛 38 | 🌐 Python | 📅 2026-08-17 ⭐ 46.5k - Free, open-source crypto trading bot. Supports all major exchanges (Binance, Hyperliquid, etc.). ML strategy optimization via FreqAI. Telegram control + WebUI.
+* [**Freqtrade**](https://github.com/freqtrade/freqtrade) ⭐ 53,400 | 🐛 36 | 🌐 Python | 📅 2026-08-18 ⭐ 46.5k - Free, open-source crypto trading bot. Supports all major exchanges (Binance, Hyperliquid, etc.). ML strategy optimization via FreqAI. Telegram control + WebUI.
   * 💰 **Monetize:** Sell custom strategies, run managed bot services, offer backtesting consulting
 
-* [**Hummingbot**](https://github.com/hummingbot/hummingbot) ⭐ 19,483 | 🐛 145 | 🌐 Python | 📅 2026-08-16 ⭐ 15.9k - Open source market making and liquidity mining bot. Supports 40+ CEXs/DEXs. Customizable strategies in Python.
+* [**Hummingbot**](https://github.com/hummingbot/hummingbot) ⭐ 19,497 | 🐛 146 | 🌐 Python | 📅 2026-08-17 ⭐ 15.9k - Open source market making and liquidity mining bot. Supports 40+ CEXs/DEXs. Customizable strategies in Python.
   * 💰 **Monetize:** Market making profits, liquidity mining rewards, strategy consulting
 
-* [**FinRL**](https://github.com/AI4Finance-Foundation/FinRL) ⭐ 16,028 | 🐛 306 | 🌐 Jupyter Notebook | 📅 2026-07-13 ⭐ 11.4k - Deep reinforcement learning for trading. Supports DQN, DDPG, A2C, SAC, PPO, TD3. Crypto environments with Binance API.
+* [**FinRL**](https://github.com/AI4Finance-Foundation/FinRL) ⭐ 16,029 | 🐛 306 | 🌐 Jupyter Notebook | 📅 2026-07-13 ⭐ 11.4k - Deep reinforcement learning for trading. Supports DQN, DDPG, A2C, SAC, PPO, TD3. Crypto environments with Binance API.
   * 💰 **Monetize:** Sell trained models, quant consulting, proprietary strategy development
 
-* [**Jesse**](https://github.com/jesse-ai/jesse) ⭐ 8,335 | 🐛 11 | 🌐 Python | 📅 2026-08-16 ⭐ 7.4k - Advanced crypto trading bot in Python. Backtesting, paper trading, live trading. Built for algo traders.
+* [**Jesse**](https://github.com/jesse-ai/jesse) ⭐ 8,340 | 🐛 11 | 🌐 Python | 📅 2026-08-16 ⭐ 7.4k - Advanced crypto trading bot in Python. Backtesting, paper trading, live trading. Built for algo traders.
   * 💰 **Monetize:** Sell strategies, subscription bot service, algo trading education
 
-* [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) ⭐ 6,416 | 🐛 163 | 🌐 Python | 📅 2026-08-14 ⭐ 5.2k - Open-source bot with AI, Grid, DCA, TradingView strategies. Simple interface, 15+ exchanges.
+* [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) ⭐ 6,426 | 🐛 162 | 🌐 Python | 📅 2026-08-17 ⭐ 5.2k - Open-source bot with AI, Grid, DCA, TradingView strategies. Simple interface, 15+ exchanges.
   * 💰 **Monetize:** Premium strategies, hosting service, configuration consulting
 
-* [**Superalgos**](https://github.com/Superalgos/Superalgos) ⭐ 5,614 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-17 ⭐ 5.3k - Visual crypto trading bot builder. Drag-and-drop strategy design, backtesting, paper trading, multi-server deployments.
+* [**Superalgos**](https://github.com/Superalgos/Superalgos) ⭐ 5,615 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-18 ⭐ 5.3k - Visual crypto trading bot builder. Drag-and-drop strategy design, backtesting, paper trading, multi-server deployments.
   * 💰 **Monetize:** Sell strategy templates, managed bot services, white-label platform
 
-* [**Krypto-trading-bot**](https://github.com/ctubio/Krypto-trading-bot) ⭐ 3,708 | 🐛 64 | 🌐 C++ | 📅 2024-12-15 ⭐ 3.7k - Self-hosted high-frequency market making bot in C++. Low-latency automated trading.
+* [**Krypto-trading-bot**](https://github.com/ctubio/Krypto-trading-bot) ⭐ 3,707 | 🐛 64 | 🌐 C++ | 📅 2024-12-15 ⭐ 3.7k - Self-hosted high-frequency market making bot in C++. Low-latency automated trading.
   * 💰 **Monetize:** HFT market making profits, strategy licensing, managed bot hosting
 
 * [**crypto-trading-bot**](https://github.com/Haehnchen/crypto-trading-bot) ⭐ 3,514 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-02 ⭐ 3.4k - Multi-exchange crypto trading bot in JavaScript. Supports Bitfinex, Bitmex, Binance, Bybit.
@@ -171,22 +171,22 @@ franklin  # launch the agent
 
 ### AI Trading Agents
 
-* [**TradingAgents**](https://github.com/TradingAgents-AI/TradingAgents) ⭐ 98,548 | 🐛 367 | 🌐 Python | 📅 2026-07-18 - Multi-agent trading framework with specialized analyst, researcher, and trader agents.
+* [**TradingAgents**](https://github.com/TradingAgents-AI/TradingAgents) ⭐ 98,721 | 🐛 365 | 🌐 Python | 📅 2026-07-18 - Multi-agent trading framework with specialized analyst, researcher, and trader agents.
   * 💰 **Monetize:** Enterprise trading solutions, custom agent development
 
-* [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) ⭐ 71,951 | 🐛 110 | 🌐 Python | 📅 2026-07-30 ⭐ 60k - Financial data platform for analysts, quants and AI agents. Open-source investment research terminal with AI copilot.
+* [**OpenBB**](https://github.com/OpenBB-finance/OpenBB) ⭐ 71,985 | 🐛 108 | 🌐 Python | 📅 2026-07-30 ⭐ 60k - Financial data platform for analysts, quants and AI agents. Open-source investment research terminal with AI copilot.
   * 💰 **Monetize:** Custom research tools, financial data SaaS, enterprise integrations, quant consulting
 
-* [**Dexter**](https://github.com/virattt/dexter) ⭐ 27,520 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-04 ⭐ 16.1k - Autonomous agent for deep financial research. AI-powered analysis and investment insights.
+* [**Dexter**](https://github.com/virattt/dexter) ⭐ 27,523 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-04 ⭐ 16.1k - Autonomous agent for deep financial research. AI-powered analysis and investment insights.
   * 💰 **Monetize:** Research-as-a-service, premium analysis reports, enterprise financial intelligence
 
-* [**OpenAlice**](https://github.com/TraderAlice/OpenAlice) ⭐ 6,533 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 571 - File-driven AI trading agent engine for crypto and securities markets. Autonomous 24/7 operation.
+* [**OpenAlice**](https://github.com/TraderAlice/OpenAlice) ⭐ 6,545 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 571 - File-driven AI trading agent engine for crypto and securities markets. Autonomous 24/7 operation.
   * 💰 **Monetize:** Managed trading service, agent customization, strategy licensing
 
 * [**GOAT SDK**](https://github.com/goat-sdk/goat) ⭐ 1,008 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-02 ⭐ 951 - The leading agentic finance toolkit for AI agents. Connect agents to DeFi protocols, wallets, and on-chain actions.
   * 💰 **Monetize:** Agent-powered trading bots, DeFi automation, on-chain agent services
 
-* [**nof1.ai**](https://github.com/195440/nof1.ai) ⭐ 683 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-15 ⭐ 551 - Autonomous AI trading agent. Web-based interface with real-time market monitoring and AI-powered decision making.
+* [**nof1.ai**](https://github.com/195440/nof1.ai) ⭐ 682 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-15 ⭐ 551 - Autonomous AI trading agent. Web-based interface with real-time market monitoring and AI-powered decision making.
   * 💰 **Monetize:** Managed trading service, strategy licensing, white-label solutions
 
 * [**AI Trading Agent (Hyperliquid)**](https://github.com/Gajesh2007/ai-trading-agent) ⭐ 538 | 🐛 2 | 🌐 Python | 📅 2025-10-27 ⭐ 455 - AI trading agent built specifically for Hyperliquid perpetual DEX.
@@ -222,19 +222,19 @@ franklin  # launch the agent
 
 ## MEV & Arbitrage
 
-* [**Artemis**](https://github.com/paradigmxyz/artemis) ⭐ 2,959 | 🐛 37 | 🌐 Rust | 📅 2024-03-05 ⭐ 2.9k - Simple, modular, fast MEV bot framework in Rust by Paradigm.
+* [**Artemis**](https://github.com/paradigmxyz/artemis) ⭐ 2,961 | 🐛 37 | 🌐 Rust | 📅 2024-03-05 ⭐ 2.9k - Simple, modular, fast MEV bot framework in Rust by Paradigm.
   * 💰 **Monetize:** Sandwich attacks, liquidations, arbitrage profits, MEV extraction
 
-* [**DeFi-bot**](https://github.com/ExtropyIO/defi-bot) ⭐ 1,231 | 🐛 16 | 🌐 Solidity | 📅 2022-03-22 ⭐ 1.2k - Tutorial for building DeFi arbitrage bots. Educational foundation for MEV strategies.
+* [**DeFi-bot**](https://github.com/ExtropyIO/defi-bot) ⭐ 1,233 | 🐛 16 | 🌐 Solidity | 📅 2022-03-22 ⭐ 1.2k - Tutorial for building DeFi arbitrage bots. Educational foundation for MEV strategies.
   * 💰 **Monetize:** DeFi arbitrage profits, educational courses, consulting
 
-* [**Jito MEV Bot**](https://github.com/jito-labs/mev-bot) ⭐ 1,197 | 🐛 7 | 🌐 TypeScript | 📅 2025-04-25 ⭐ 1.2k - Official Jito Labs MEV bot for Solana.
+* [**Jito MEV Bot**](https://github.com/jito-labs/mev-bot) ⭐ 1,198 | 🐛 7 | 🌐 TypeScript | 📅 2025-04-25 ⭐ 1.2k - Official Jito Labs MEV bot for Solana.
   * 💰 **Monetize:** Solana MEV extraction, liquidations, arbitrage
 
-* [**mev-template-rs**](https://github.com/degatchi/mev-template-rs) ⭐ 725 | 🐛 0 | 🌐 Rust | 📅 2026-04-14 ⭐ 727 - Bootstrap MEV bot strategies with Rust boilerplate.
+* [**mev-template-rs**](https://github.com/degatchi/mev-template-rs) ⭐ 726 | 🐛 0 | 🌐 Rust | 📅 2026-04-14 ⭐ 727 - Bootstrap MEV bot strategies with Rust boilerplate.
   * 💰 **Monetize:** Build custom MEV strategies, consulting, bot-as-a-service
 
-* [**mev-templates**](https://github.com/solidquant/mev-templates) ⭐ 577 | 🐛 3 | 🌐 Solidity | 📅 2023-11-08 ⭐ 567 - MEV templates in Python/Javascript/Rust. DEX flashloan arbitrage.
+* [**mev-templates**](https://github.com/solidquant/mev-templates) ⭐ 578 | 🐛 3 | 🌐 Solidity | 📅 2023-11-08 ⭐ 567 - MEV templates in Python/Javascript/Rust. DEX flashloan arbitrage.
   * 💰 **Monetize:** Cross-DEX arbitrage, flashloan profits, strategy development
 
 * [**Rust Solana MEV Bot**](https://github.com/SaoXuan/rust-mev-bot-shared) ⭐ 452 | 🐛 0 | 🌐 Shell | 📅 2026-01-02 ⭐ 443 - Rust Solana MEV 套利机器人. High-performance arbitrage bot for Solana.
@@ -261,22 +261,22 @@ franklin  # launch the agent
 * [**Polymarket Agents**](https://github.com/Polymarket/agents) ⚠️ Archived ⭐ 2.2k - Official Polymarket AI agents. Trade autonomously using AI on prediction markets.
   * 💰 **Monetize:** Automated trading profits, agent customization services
 
-* [**Prediction Market Analysis**](https://github.com/Jon-Becker/prediction-market-analysis) ⭐ 3,756 | 🐛 6 | 🌐 Python | 📅 2026-08-10 ⭐ 1.7k - Framework for collecting and analyzing prediction market data. Largest public dataset of Polymarket and Kalshi market/trade data.
+* [**Prediction Market Analysis**](https://github.com/Jon-Becker/prediction-market-analysis) ⭐ 3,757 | 🐛 7 | 🌐 Python | 📅 2026-08-10 ⭐ 1.7k - Framework for collecting and analyzing prediction market data. Largest public dataset of Polymarket and Kalshi market/trade data.
   * 💰 **Monetize:** Data feeds, analytics API, research reports, trading signals
 
 * [**poly\_data**](https://github.com/warproxxx/poly_data) ⭐ 2,275 | 🐛 0 | 🌐 Python | 📅 2026-06-29 ⭐ 512 - Polymarket data retriever. Fetches, processes markets, order events, and trades.
   * 💰 **Monetize:** Data feeds, analytics API, research reports
 
-* [**pmxt**](https://github.com/pmxt-dev/pmxt) ⭐ 2,085 | 🐛 1,101 | 🌐 TypeScript | 📅 2026-07-18 ⭐ 592 - Unified API for trading across prediction markets (Polymarket, Kalshi, etc.).
+* [**pmxt**](https://github.com/pmxt-dev/pmxt) ⭐ 2,086 | 🐛 1,103 | 🌐 TypeScript | 📅 2026-07-18 ⭐ 592 - Unified API for trading across prediction markets (Polymarket, Kalshi, etc.).
   * 💰 **Monetize:** Cross-platform arbitrage, multi-market bots, API service
 
-* [**poly-maker**](https://github.com/warproxxx/poly-maker) ⭐ 1,449 | 🐛 1 | 🌐 Python | 📅 2026-07-09 ⭐ 856 - Market making bot for Polymarket. Configurable via Google Sheets. Provides liquidity on both sides of the book.
+* [**poly-maker**](https://github.com/warproxxx/poly-maker) ⭐ 1,450 | 🐛 1 | 🌐 Python | 📅 2026-07-09 ⭐ 856 - Market making bot for Polymarket. Configurable via Google Sheets. Provides liquidity on both sides of the book.
   * 💰 **Monetize:** Market making spreads, managed MM services
 
 * [**py-clob-client**](https://github.com/Polymarket/py-clob-client) ⚠️ Archived ⭐ 785 - Official Python client for the Polymarket CLOB (Central Limit Order Book).
   * 💰 **Monetize:** Build custom trading bots, API services, consulting
 
-* [**PolymarketBTC15mAssistant**](https://github.com/FrondEnt/PolymarketBTC15mAssistant) ⭐ 746 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 ⭐ 490 - Real-time Polymarket BTC 15m trading assistant for every trader.
+* [**PolymarketBTC15mAssistant**](https://github.com/FrondEnt/PolymarketBTC15mAssistant) ⭐ 748 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-29 ⭐ 490 - Real-time Polymarket BTC 15m trading assistant for every trader.
   * 💰 **Monetize:** Trading signals, subscription service, managed trading
 
 * [**rs-clob-client**](https://github.com/Polymarket/rs-clob-client) ⚠️ Archived ⭐ 520 - Official Polymarket Rust CLOB client. High-performance order book access.
@@ -311,12 +311,12 @@ franklin  # launch the agent
 * [**polymarket-kalshi-btc-arbitrage-bot**](https://github.com/CarlosIbCu/polymarket-kalshi-btc-arbitrage-bot) ⭐ 236 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Real-time arbitrage between Polymarket and Kalshi on Bitcoin markets.
   * 💰 **Monetize:** Execute profitable arbs, sell signals/alerts
 
-* [**prediction-market-arbitrage-bot**](https://github.com/realfishsam/prediction-market-arbitrage-bot) ⭐ 171 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-16 - Synthetic arbitrage (buy YES on one platform, NO on another).
+* [**prediction-market-arbitrage-bot**](https://github.com/realfishsam/prediction-market-arbitrage-bot) ⭐ 171 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-16 - Synthetic arbitrage (buy YES on one platform, NO on another).
   * 💰 **Monetize:** Arbitrage execution, managed arb service
 
 ### Resources
 
-* [**Awesome-Prediction-Market-Tools**](https://github.com/aarora4/Awesome-Prediction-Market-Tools) ⭐ 679 | 🐛 103 | 📅 2026-06-30 - Curated list including YN Signals (24/7 alpha aggregator) and Eventarb (free arb alerts).
+* [**Awesome-Prediction-Market-Tools**](https://github.com/aarora4/Awesome-Prediction-Market-Tools) ⭐ 683 | 🐛 104 | 📅 2026-06-30 - Curated list including YN Signals (24/7 alpha aggregator) and Eventarb (free arb alerts).
 
 ***
 
@@ -330,7 +330,7 @@ franklin  # launch the agent
 
 ### OpenClaw DeFi Skills
 
-* [**BankrBot/openclaw-skills**](https://github.com/BankrBot/openclaw-skills) ⭐ 1,182 | 🐛 317 | 🌐 Shell | 📅 2026-08-15 - OpenClaw skills for Polymarket betting, crypto trading, DeFi operations, leverage trading, portfolio management. Multi-chain: Base, Ethereum, Polygon, Solana.
+* [**BankrBot/openclaw-skills**](https://github.com/BankrBot/openclaw-skills) ⭐ 1,184 | 🐛 317 | 🌐 Shell | 📅 2026-08-15 - OpenClaw skills for Polymarket betting, crypto trading, DeFi operations, leverage trading, portfolio management. Multi-chain: Base, Ethereum, Polygon, Solana.
   * 💰 **Monetize:** Sell skills on ClawHub, partner with exchanges for affiliate volume
 
 ***
@@ -361,7 +361,7 @@ franklin  # launch the agent
 
 ### LinkedIn Automation
 
-* [**OpenOutreach**](https://github.com/eracle/OpenOutreach) ⭐ 2,712 | 🐛 133 | 🌐 Python | 📅 2026-08-16 ⭐ 1.1k - LinkedIn automation: visit profiles, connect, message with AI.
+* [**OpenOutreach**](https://github.com/eracle/OpenOutreach) ⭐ 2,720 | 🐛 134 | 🌐 Python | 📅 2026-08-18 ⭐ 1.1k - LinkedIn automation: visit profiles, connect, message with AI.
   * 💰 **Monetize:** B2B lead gen, outreach agency, connection building service
 
 * [**linvo-scraper**](https://github.com/linvo-io/linvo-scraper) ⭐ 628 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-11 ⭐ 625 - LinkedIn automation with comprehensive scraping. Production-grade.
@@ -369,16 +369,16 @@ franklin  # launch the agent
 
 ### Lead Generation
 
-* [**ScrapeGraphAI**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 29,637 | 🐛 12 | 🌐 Python | 📅 2026-07-20 ⭐ 22.6k - Python scraper based on AI. Uses LLMs to understand and extract structured data from any website.
+* [**ScrapeGraphAI**](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 29,674 | 🐛 13 | 🌐 Python | 📅 2026-07-20 ⭐ 22.6k - Python scraper based on AI. Uses LLMs to understand and extract structured data from any website.
   * 💰 **Monetize:** Intelligent scraping SaaS, data extraction services, lead enrichment platform
 
-* [**ChatGPT Scraper**](https://github.com/oxylabs/chatgpt-scraper) ⭐ 3,283 | 🐛 0 | 🌐 Java | 📅 2026-07-22 ⭐ 3.8k - Collect ChatGPT responses via Web Scraper API. Automated prompt responses.
+* [**ChatGPT Scraper**](https://github.com/oxylabs/chatgpt-scraper) ⭐ 3,287 | 🐛 0 | 🌐 Java | 📅 2026-07-22 ⭐ 3.8k - Collect ChatGPT responses via Web Scraper API. Automated prompt responses.
   * 💰 **Monetize:** AI response aggregation, research automation, data collection service
 
-* [**Google-Maps-Scraper**](https://github.com/omkarcloud/google-maps-scraper) ⭐ 3,099 | 🐛 5 | 📅 2026-07-27 ⭐ 1.4k - Bulk scrape Google Maps (names, addresses, phones, emails, ratings).
+* [**Google-Maps-Scraper**](https://github.com/omkarcloud/google-maps-scraper) ⭐ 3,102 | 🐛 5 | 📅 2026-07-27 ⭐ 1.4k - Bulk scrape Google Maps (names, addresses, phones, emails, ratings).
   * 💰 **Monetize:** Sell local business leads, B2B contact databases
 
-* [**SalesGPT**](https://github.com/filip-michalsky/SalesGPT) ⭐ 2,727 | 🐛 59 | 🌐 HTML | 📅 2024-09-17 ⭐ 2.2k+ - Context-aware AI sales agent for voice, email, SMS. Autonomous across sales funnel stages.
+* [**SalesGPT**](https://github.com/filip-michalsky/SalesGPT) ⭐ 2,729 | 🐛 59 | 🌐 HTML | 📅 2024-09-17 ⭐ 2.2k+ - Context-aware AI sales agent for voice, email, SMS. Autonomous across sales funnel stages.
   * 💰 **Monetize:** Outbound sales automation, enterprise SDR replacement, subscription campaigns
 
 * [**ai-web-scraper**](https://github.com/kaymen99/ai-web-scraper) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2025-02-13 - AI web scraper using Crawl4AI. Supports GPT-4o, Claude, DeepSeek, Gemini via LiteLLM.
@@ -391,13 +391,13 @@ franklin  # launch the agent
 
 ## Content Creation
 
-* [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 104,911 | 🐛 21 | 🌐 Python | 📅 2026-08-13 ⭐ 44k - AI one-click HD short video generation.
+* [**MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 106,728 | 🐛 25 | 🌐 Python | 📅 2026-08-18 ⭐ 44k - AI one-click HD short video generation.
   * 💰 **Monetize:** YouTube/TikTok monetization, affiliate marketing, video ads
 
-* [**MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 31,575 | 🐛 94 | 🌐 Python | 📅 2026-06-14 ⭐ 13k - Automate the process of making money online. Full automation pipeline for content creation and publishing.
+* [**MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 31,581 | 🐛 94 | 🌐 Python | 📅 2026-06-14 ⭐ 13k - Automate the process of making money online. Full automation pipeline for content creation and publishing.
   * 💰 **Monetize:** Faceless channels, automated content farms, video-as-a-service
 
-* [**CogVideo**](https://github.com/THUDM/CogVideo) ⭐ 12,956 | 🐛 115 | 🌐 Python | 📅 2025-11-04 ⭐ 12k - Text/image to video generation.
+* [**CogVideo**](https://github.com/THUDM/CogVideo) ⭐ 12,958 | 🐛 115 | 🌐 Python | 📅 2025-11-04 ⭐ 12k - Text/image to video generation.
   * 💰 **Monetize:** Content creation, ads, social media, video SaaS
 
 * [**SoraFM**](https://github.com/all-in-aigc/sorafm) ⭐ 1,154 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-15 ⭐ 1.1k - Sora AI Video Generator web interface. Generate videos with OpenAI Sora API.
@@ -411,15 +411,15 @@ franklin  # launch the agent
 
 ### YouTube Automation
 
-* [**youtube-automation-agent**](https://github.com/darkzOGx/youtube-automation-agent) ⭐ 2,112 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-04 ⭐ 49 - Fully automated YouTube channel with AI agents. Creates, optimizes, publishes 24/7. Works with free Gemini API.
+* [**youtube-automation-agent**](https://github.com/darkzOGx/youtube-automation-agent) ⭐ 2,163 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-17 ⭐ 49 - Fully automated YouTube channel with AI agents. Creates, optimizes, publishes 24/7. Works with free Gemini API.
   * 💰 **Monetize:** Ad revenue, affiliate marketing, brand deals
 
-* [**gemini-youtube-automation**](https://github.com/ChaituRajSagar/gemini-youtube-automation) ⭐ 323 | 🐛 0 | 🌐 Python | 📅 2026-08-16 ⭐ 219 - Fully autonomous AI pipeline using Gemini to generate and upload educational videos to YouTube.
+* [**gemini-youtube-automation**](https://github.com/ChaituRajSagar/gemini-youtube-automation) ⭐ 323 | 🐛 0 | 🌐 Python | 📅 2026-08-17 ⭐ 219 - Fully autonomous AI pipeline using Gemini to generate and upload educational videos to YouTube.
   * 💰 **Monetize:** Educational channel monetization, faceless channels, course promotion
 
 ### Social Media Automation
 
-* [**ALwrity**](https://github.com/AJaySi/ALwrity) ⭐ 1,120 | 🐛 103 | 🌐 Python | 📅 2026-08-14 - AI Digital Marketing Platform with RAG, SEO, multilingual. Blog Writer (Research→Outline→Content→SEO→Publish).
+* [**ALwrity**](https://github.com/AJaySi/ALwrity) ⭐ 1,122 | 🐛 103 | 🌐 Python | 📅 2026-08-14 - AI Digital Marketing Platform with RAG, SEO, multilingual. Blog Writer (Research→Outline→Content→SEO→Publish).
   * 💰 **Monetize:** Monthly SaaS, per-article pricing, agency white-label
 
 * [**Auto\_Social\_Media\_Content\_Generator**](https://github.com/PatrykIA/Auto_Social_Media_Content_Generator) ⭐ 9 | 🐛 0 | 📅 2024-10-18 - Automation for Facebook, Instagram, X, LinkedIn with AI text + Canva images. Auto-posts every 2 days.
@@ -433,148 +433,148 @@ Build monetizable AI agents with these frameworks:
 
 ### General Agent Frameworks
 
-* [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,644 | 🐛 511 | 🌐 Python | 📅 2026-08-17 ⭐ 177k - Accessible AI tools for building autonomous agents. Forge for agent creation, benchmarks, leaderboard.
+* [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,661 | 🐛 506 | 🌐 Python | 📅 2026-08-18 ⭐ 177k - Accessible AI tools for building autonomous agents. Forge for agent creation, benchmarks, leaderboard.
   * 💰 **Monetize:** Build/sell custom agents, agent-as-a-service, enterprise licensing
 
-* [**LangChain**](https://github.com/langchain-ai/langchain) ⭐ 144,370 | 🐛 415 | 🌐 Python | 📅 2026-08-17 ⭐ 112k - Framework for context-aware reasoning applications.
+* [**LangChain**](https://github.com/langchain-ai/langchain) ⭐ 144,437 | 🐛 410 | 🌐 Python | 📅 2026-08-18 ⭐ 112k - Framework for context-aware reasoning applications.
   * 💰 **Monetize:** LLM apps with monetized endpoints, consulting, templates
 
-* [**Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 132,919 | 🐛 14 | 🌐 Python | 📅 2026-08-17 ⭐ 95.4k - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini, and open-source models.
+* [**Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 133,016 | 🐛 13 | 🌐 Python | 📅 2026-08-17 ⭐ 95.4k - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini, and open-source models.
   * 💰 **Monetize:** Clone and customize apps, build SaaS products, consulting services
 
-* [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) ⭐ 106,539 | 🐛 802 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 94.6k - Google's open-source AI agent that brings the power of Gemini directly into your terminal.
+* [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) ⭐ 106,549 | 🐛 780 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 94.6k - Google's open-source AI agent that brings the power of Gemini directly into your terminal.
   * 💰 **Monetize:** Automation scripts, developer tools, enterprise integrations
 
-* [**AI Agents for Beginners**](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 72,364 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-07-29 ⭐ 50.6k - Microsoft's 12 lessons to get started building AI agents. Comprehensive curriculum.
+* [**AI Agents for Beginners**](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 72,485 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-07-29 ⭐ 50.6k - Microsoft's 12 lessons to get started building AI agents. Comprehensive curriculum.
   * 💰 **Monetize:** Training courses, bootcamps, enterprise workshops
 
-* [**MetaGPT**](https://github.com/geekan/MetaGPT) ⭐ 69,859 | 🐛 129 | 🌐 Python | 📅 2026-01-21 ⭐ 64k - The Multi-Agent Framework: First AI Software Company. Assigns roles to agents (Product Manager, Architect, Engineer).
+* [**MetaGPT**](https://github.com/geekan/MetaGPT) ⭐ 69,872 | 🐛 129 | 🌐 Python | 📅 2026-01-21 ⭐ 64k - The Multi-Agent Framework: First AI Software Company. Assigns roles to agents (Product Manager, Architect, Engineer).
   * 💰 **Monetize:** AI software development agency, code generation SaaS, enterprise consulting
 
-* [**Open Interpreter**](https://github.com/openinterpreter/open-interpreter) ⭐ 68,042 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 ⭐ 62k - A natural language interface for computers. Run code, control your computer with plain English.
+* [**Open Interpreter**](https://github.com/openinterpreter/open-interpreter) ⭐ 68,048 | 🐛 5 | 🌐 Rust | 📅 2026-08-17 ⭐ 62k - A natural language interface for computers. Run code, control your computer with plain English.
   * 💰 **Monetize:** Automation services, enterprise deployments, managed computer-use agents
 
-* [**Anything LLM**](https://github.com/Mintplex-Labs/anything-llm) ⭐ 64,799 | 🐛 328 | 🌐 JavaScript | 📅 2026-08-13 ⭐ 54.6k - All-in-one Desktop & Docker AI application with built-in RAG, AI agents, no-code agent builder, MCP compatibility.
+* [**Anything LLM**](https://github.com/Mintplex-Labs/anything-llm) ⭐ 64,851 | 🐛 332 | 🌐 JavaScript | 📅 2026-08-18 ⭐ 54.6k - All-in-one Desktop & Docker AI application with built-in RAG, AI agents, no-code agent builder, MCP compatibility.
   * 💰 **Monetize:** Custom deployments, enterprise hosting, white-label platform
 
-* [**Warp**](https://github.com/warpdotdev/Warp) ⭐ 64,262 | 🐛 5,029 | 🌐 Rust | 📅 2026-08-17 ⭐ 25.9k - The agentic development environment, built for coding with multiple AI agents.
+* [**Warp**](https://github.com/warpdotdev/Warp) ⭐ 64,292 | 🐛 5,045 | 🌐 Rust | 📅 2026-08-18 ⭐ 25.9k - The agentic development environment, built for coding with multiple AI agents.
   * 💰 **Monetize:** Developer tool licensing, enterprise features, custom integrations
 
-* [**Mem0**](https://github.com/mem0ai/mem0) ⭐ 63,406 | 🐛 677 | 🌐 Python | 📅 2026-08-15 ⭐ 47.4k - Universal memory layer for AI Agents. Persistent memory across sessions.
+* [**Mem0**](https://github.com/mem0ai/mem0) ⭐ 63,490 | 🐛 687 | 🌐 Python | 📅 2026-08-18 ⭐ 47.4k - Universal memory layer for AI Agents. Persistent memory across sessions.
   * 💰 **Monetize:** Memory-as-a-service, enterprise integrations, custom implementations
 
-* [**Microsoft Autogen**](https://github.com/microsoft/autogen) ⭐ 60,460 | 🐛 998 | 🌐 Python | 📅 2026-04-15 ⭐ 54.5k - A programming framework for agentic AI. Multi-agent conversations, tool use, code execution.
+* [**Microsoft Autogen**](https://github.com/microsoft/autogen) ⭐ 60,477 | 🐛 996 | 🌐 Python | 📅 2026-04-15 ⭐ 54.5k - A programming framework for agentic AI. Multi-agent conversations, tool use, code execution.
   * 💰 **Monetize:** Enterprise agent solutions, consulting, custom multi-agent systems
 
-* [**CrewAI**](https://github.com/crewAIInc/crewAI) ⭐ 57,186 | 🐛 803 | 🌐 Python | 📅 2026-08-17 ⭐ 44.2k - Lean, fast Python framework for orchestrating role-playing AI agents with collaborative intelligence.
+* [**CrewAI**](https://github.com/crewAIInc/crewAI) ⭐ 57,228 | 🐛 819 | 🌐 Python | 📅 2026-08-18 ⭐ 44.2k - Lean, fast Python framework for orchestrating role-playing AI agents with collaborative intelligence.
   * 💰 **Monetize:** Niche agents, consulting, pre-built templates, managed hosting
 
 * [**Flowise**](https://github.com/FlowiseAI/Flowise) ⚠️ Archived ⭐ 49.1k - Build AI Agents visually. Drag-and-drop LLM flow builder with API endpoints.
   * 💰 **Monetize:** Custom workflow development, managed hosting, enterprise deployments
 
-* [**Block Goose**](https://github.com/block/goose) ⭐ 52,890 | 🐛 296 | 🌐 Rust | 📅 2026-08-17 ⭐ 30.5k - Open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.
+* [**Block Goose**](https://github.com/block/goose) ⭐ 52,928 | 🐛 299 | 🌐 Rust | 📅 2026-08-18 ⭐ 30.5k - Open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.
   * 💰 **Monetize:** Development automation, custom extensions, enterprise licensing
 
-* [**LlamaIndex**](https://github.com/run-llama/llama_index) ⭐ 51,693 | 🐛 616 | 🌐 Python | 📅 2026-08-17 ⭐ 43k - Data-centric agents with RAG primitives. 500+ connectors via LlamaHub.
+* [**LlamaIndex**](https://github.com/run-llama/llama_index) ⭐ 51,716 | 🐛 620 | 🌐 Python | 📅 2026-08-17 ⭐ 43k - Data-centric agents with RAG primitives. 500+ connectors via LlamaHub.
   * 💰 **Monetize:** Data-powered AI agents, specialized apps, consulting
 
-* [**Cherry Studio**](https://github.com/CherryHQ/cherry-studio) ⭐ 50,593 | 🐛 1,313 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 40k - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs.
+* [**Cherry Studio**](https://github.com/CherryHQ/cherry-studio) ⭐ 50,684 | 🐛 1,284 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 40k - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs.
   * 💰 **Monetize:** White-label AI productivity platform, enterprise deployments, custom assistant development
 
-* [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐ 47,078 | 🐛 706 | 🌐 Python | 📅 2026-08-17 ⭐ 27.4k - Ultra-Lightweight OpenClaw. Minimal footprint, full capability — ideal for edge deployments.
+* [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) ⭐ 47,116 | 🐛 707 | 🌐 Python | 📅 2026-08-18 ⭐ 27.4k - Ultra-Lightweight OpenClaw. Minimal footprint, full capability — ideal for edge deployments.
   * 💰 **Monetize:** Embedded agent services, IoT automation, lightweight enterprise deployments
 
-* [**ToolJet**](https://github.com/ToolJet/ToolJet) ⭐ 40,219 | 🐛 1,136 | 🌐 JavaScript | 📅 2026-08-17 ⭐ 37.4k - Open-source foundation of ToolJet AI - AI-native platform for building internal tools, dashboards, workflows and AI agents.
+* [**ToolJet**](https://github.com/ToolJet/ToolJet) ⭐ 40,408 | 🐛 1,141 | 🌐 JavaScript | 📅 2026-08-18 ⭐ 37.4k - Open-source foundation of ToolJet AI - AI-native platform for building internal tools, dashboards, workflows and AI agents.
   * 💰 **Monetize:** Internal tool development, enterprise licensing, custom integrations
 
-* [**UI-TARS Desktop**](https://github.com/bytedance/UI-TARS-desktop) ⭐ 38,611 | 🐛 417 | 🌐 TypeScript | 📅 2026-08-05 ⭐ 28k - ByteDance's open-source multimodal AI agent stack connecting AI models and agent infra.
+* [**UI-TARS Desktop**](https://github.com/bytedance/UI-TARS-desktop) ⭐ 38,618 | 🐛 417 | 🌐 TypeScript | 📅 2026-08-05 ⭐ 28k - ByteDance's open-source multimodal AI agent stack connecting AI models and agent infra.
   * 💰 **Monetize:** Desktop automation, enterprise deployments, custom integrations
 
 * [**AgentGPT**](https://github.com/reworkd/AgentGPT) ⚠️ Archived ⭐ 35.7k - Assemble, configure, and deploy autonomous AI Agents in your browser.
   * 💰 **Monetize:** Custom agent development, SaaS platform, enterprise deployments
 
-* [**iOfficeAI/AionUi**](https://github.com/iOfficeAI/AionUi) ⭐ 32,051 | 🐛 818 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 17.6k - Free, local, open-source 24/7 cowork app and OpenClaw for Gemini CLI, Claude Code.
+* [**iOfficeAI/AionUi**](https://github.com/iOfficeAI/AionUi) ⭐ 32,075 | 🐛 825 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 17.6k - Free, local, open-source 24/7 cowork app and OpenClaw for Gemini CLI, Claude Code.
   * 💰 **Monetize:** Desktop agent licensing, enterprise 24/7 workflow automation
 
-* [**qwibitai/nanoclaw**](https://github.com/qwibitai/nanoclaw) ⭐ 30,524 | 🐛 884 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 17.2k - Lightweight alternative to OpenClaw that runs in containers for security and scalability.
+* [**qwibitai/nanoclaw**](https://github.com/qwibitai/nanoclaw) ⭐ 30,535 | 🐛 900 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 17.2k - Lightweight alternative to OpenClaw that runs in containers for security and scalability.
   * 💰 **Monetize:** Container-native agent services, multi-tenant deployments, self-hosted SaaS
 
-* [**Jobs Applier AI Agent (AIHawk)**](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) ⭐ 30,193 | 🐛 27 | 🌐 Python | 📅 2026-08-16 ⭐ 29.3k - AI agent that automates job hunt by applying to multiple jobs in a tailored way.
+* [**Jobs Applier AI Agent (AIHawk)**](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) ⭐ 30,196 | 🐛 28 | 🌐 Python | 📅 2026-08-18 ⭐ 29.3k - AI agent that automates job hunt by applying to multiple jobs in a tailored way.
   * 💰 **Monetize:** Job application service, subscription platform, career coaching integration
 
-* [**Graphiti**](https://github.com/getzep/graphiti) ⭐ 29,986 | 🐛 487 | 🌐 Python | 📅 2026-08-16 ⭐ 22.8k - Build real-time knowledge graphs for AI agents. Persistent structured memory.
+* [**Graphiti**](https://github.com/getzep/graphiti) ⭐ 30,027 | 🐛 488 | 🌐 Python | 📅 2026-08-17 ⭐ 22.8k - Build real-time knowledge graphs for AI agents. Persistent structured memory.
   * 💰 **Monetize:** Knowledge graph services, enterprise memory solutions, consulting
 
-* [**Composio**](https://github.com/ComposioHQ/composio) ⭐ 29,727 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-16 ⭐ 26.6k - Equips AI agents & LLMs with 100+ high-quality integrations via function calling.
+* [**Composio**](https://github.com/ComposioHQ/composio) ⭐ 29,744 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 26.6k - Equips AI agents & LLMs with 100+ high-quality integrations via function calling.
   * 💰 **Monetize:** Integration platform, custom connectors, enterprise licensing
 
-* [**Sim Studio**](https://github.com/simstudioai/sim) ⭐ 29,428 | 🐛 274 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 26.4k - Open-source platform to build and deploy AI agent workflows.
+* [**Sim Studio**](https://github.com/simstudioai/sim) ⭐ 29,426 | 🐛 280 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 26.4k - Open-source platform to build and deploy AI agent workflows.
   * 💰 **Monetize:** Workflow templates, managed hosting, enterprise solutions
 
-* [**smolagents**](https://github.com/huggingface/smolagents) ⭐ 28,831 | 🐛 773 | 🌐 Python | 📅 2026-07-21 ⭐ 25.4k - HuggingFace's barebones library for agents that think in code. Simple, hackable, powerful.
+* [**smolagents**](https://github.com/huggingface/smolagents) ⭐ 28,848 | 🐛 778 | 🌐 Python | 📅 2026-07-21 ⭐ 25.4k - HuggingFace's barebones library for agents that think in code. Simple, hackable, powerful.
   * 💰 **Monetize:** Custom coding agents, agent templates, enterprise integrations
 
-* [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python) ⭐ 28,701 | 🐛 11 | 🌐 Python | 📅 2026-08-17 ⭐ 19.1k - OpenAI's lightweight, powerful framework for multi-agent workflows.
+* [**OpenAI Agents Python**](https://github.com/openai/openai-agents-python) ⭐ 28,730 | 🐛 12 | 🌐 Python | 📅 2026-08-17 ⭐ 19.1k - OpenAI's lightweight, powerful framework for multi-agent workflows.
   * 💰 **Monetize:** Multi-agent SaaS products, enterprise agent orchestration, consulting
 
-* [**Qwen Code**](https://github.com/QwenLM/qwen-code) ⭐ 27,090 | 🐛 1,057 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 18.4k - Open-source AI agent that lives in your terminal, powered by Qwen.
+* [**Qwen Code**](https://github.com/QwenLM/qwen-code) ⭐ 27,132 | 🐛 1,084 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 18.4k - Open-source AI agent that lives in your terminal, powered by Qwen.
   * 💰 **Monetize:** Developer automation, enterprise licensing, custom extensions
 
-* [**AgenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐ 26,878 | 🐛 35 | 🌐 Python | 📅 2026-08-11 ⭐ 25.1k - Fully local autonomous agent. No APIs, no subscriptions. Thinks, browses the web, and codes locally.
+* [**AgenticSeek**](https://github.com/Fosowl/agenticSeek) ⭐ 26,887 | 🐛 36 | 🌐 Python | 📅 2026-08-11 ⭐ 25.1k - Fully local autonomous agent. No APIs, no subscriptions. Thinks, browses the web, and codes locally.
   * 💰 **Monetize:** Privacy-first AI consulting, on-prem enterprise deployments, local agent solutions
 
 * [**Roo Code**](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived ⭐ 22.2k - A whole dev team of AI agents in your code editor.
   * 💰 **Monetize:** Enterprise licensing, custom agent development, training
 
-* [**Activepieces**](https://github.com/activepieces/activepieces) ⭐ 23,835 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 20.8k - AI Agents & MCPs & AI Workflow Automation with \~400 MCP servers for AI agents.
+* [**Activepieces**](https://github.com/activepieces/activepieces) ⭐ 23,860 | 🐛 470 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 20.8k - AI Agents & MCPs & AI Workflow Automation with \~400 MCP servers for AI agents.
   * 💰 **Monetize:** Workflow marketplace, managed hosting, enterprise integrations
 
-* [**GenAI Agents**](https://github.com/NirDiamant/GenAI_Agents) ⭐ 23,817 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-15 ⭐ 20k - In-depth tutorials and implementations for various Generative AI Agent techniques.
+* [**GenAI Agents**](https://github.com/NirDiamant/GenAI_Agents) ⭐ 23,835 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-15 ⭐ 20k - In-depth tutorials and implementations for various Generative AI Agent techniques.
   * 💰 **Monetize:** Training courses, enterprise workshops, consulting
 
-* [**Coze Studio**](https://github.com/coze-dev/coze-studio) ⭐ 21,454 | 🐛 542 | 🌐 TypeScript | 📅 2026-07-29 ⭐ 19.9k - AI agent development platform with all-in-one visual tools for creation, debugging, and deployment.
+* [**Coze Studio**](https://github.com/coze-dev/coze-studio) ⭐ 21,460 | 🐛 545 | 🌐 TypeScript | 📅 2026-07-29 ⭐ 19.9k - AI agent development platform with all-in-one visual tools for creation, debugging, and deployment.
   * 💰 **Monetize:** Agent marketplace, managed platform, enterprise features
 
-* [**Suna (Kortix)**](https://github.com/kortix-ai/suna) ⭐ 20,103 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 19.4k - Build, manage and train AI Agents with Kortix platform.
+* [**Suna (Kortix)**](https://github.com/kortix-ai/suna) ⭐ 20,109 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 19.4k - Build, manage and train AI Agents with Kortix platform.
   * 💰 **Monetize:** Agent training services, managed platform, enterprise licensing
 
-* [**DB-GPT**](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,738 | 🐛 426 | 🌐 Python | 📅 2026-08-16 ⭐ 18.1k - AI Native Data App Development framework with Agentic Workflow Expression Language (AWEL) and Agents.
+* [**DB-GPT**](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,740 | 🐛 428 | 🌐 Python | 📅 2026-08-17 ⭐ 18.1k - AI Native Data App Development framework with Agentic Workflow Expression Language (AWEL) and Agents.
   * 💰 **Monetize:** Data-powered AI apps, enterprise data agents, analytics automation
 
-* [**Pydantic-AI**](https://github.com/pydantic/pydantic-ai) ⭐ 19,346 | 🐛 704 | 🌐 Python | 📅 2026-08-17 - GenAI Agent Framework with validation layer for OpenAI, Anthropic, Google SDKs.
+* [**Pydantic-AI**](https://github.com/pydantic/pydantic-ai) ⭐ 19,358 | 🐛 719 | 🌐 Python | 📅 2026-08-18 - GenAI Agent Framework with validation layer for OpenAI, Anthropic, Google SDKs.
   * 💰 **Monetize:** Validated agent applications, development services
 
-* [**Eliza**](https://github.com/elizaOS/eliza) ⭐ 19,075 | 🐛 273 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 17.5k - Autonomous agents for everyone. Popular framework for crypto/social media agents. Multi-platform (Discord, Twitter, Telegram).
+* [**Eliza**](https://github.com/elizaOS/eliza) ⭐ 19,082 | 🐛 375 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 17.5k - Autonomous agents for everyone. Popular framework for crypto/social media agents. Multi-platform (Discord, Twitter, Telegram).
   * 💰 **Monetize:** Social media agents, crypto trading bots, community management agents
 
-* [**SuperAGI**](https://github.com/TransformerOptimus/SuperAGI) ⭐ 17,657 | 🐛 268 | 🌐 Python | 📅 2025-01-22 ⭐ 17.2k - Dev-first open source autonomous AI agent framework. Build, manage & run useful agents quickly.
+* [**SuperAGI**](https://github.com/TransformerOptimus/SuperAGI) ⭐ 17,656 | 🐛 269 | 🌐 Python | 📅 2025-01-22 ⭐ 17.2k - Dev-first open source autonomous AI agent framework. Build, manage & run useful agents quickly.
   * 💰 **Monetize:** Custom agent development, managed infrastructure, enterprise licensing
 
-* [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) ⭐ 16,978 | 🐛 525 | 🌐 Python | 📅 2026-03-04 ⭐ 13.2k - Agent framework built on Qwen. Features Function Calling, MCP, Code Interpreter, RAG, Chrome extension.
+* [**Qwen-Agent**](https://github.com/QwenLM/Qwen-Agent) ⭐ 16,980 | 🐛 525 | 🌐 Python | 📅 2026-03-04 ⭐ 13.2k - Agent framework built on Qwen. Features Function Calling, MCP, Code Interpreter, RAG, Chrome extension.
   * 💰 **Monetize:** Qwen-powered apps, MCP integrations, browser extensions
 
-* [**Plandex**](https://github.com/plandex-ai/plandex) ⭐ 15,587 | 🐛 60 | 🌐 Go | 📅 2025-10-03 ⭐ 15k - Open source AI coding agent designed for large projects and real world tasks.
+* [**Plandex**](https://github.com/plandex-ai/plandex) ⭐ 15,590 | 🐛 60 | 🌐 Go | 📅 2025-10-03 ⭐ 15k - Open source AI coding agent designed for large projects and real world tasks.
   * 💰 **Monetize:** Enterprise coding automation, development agency, managed coding agents
 
-* [**NevaMind-AI/memU**](https://github.com/NevaMind-AI/memU) ⭐ 14,313 | 🐛 117 | 🌐 Python | 📅 2026-08-12 ⭐ 12.2k - Memory layer for 24/7 proactive agents (OpenClaw, Moltbot, Clawdbot). Long-term context across sessions.
+* [**NevaMind-AI/memU**](https://github.com/NevaMind-AI/memU) ⭐ 14,315 | 🐛 119 | 🌐 Python | 📅 2026-08-18 ⭐ 12.2k - Memory layer for 24/7 proactive agents (OpenClaw, Moltbot, Clawdbot). Long-term context across sessions.
   * 💰 **Monetize:** Memory-as-a-service for agents, personalized AI assistant products
 
 * [**OpenCode**](https://github.com/opencode-ai/opencode) ⚠️ Archived ⭐ 11.1k - Powerful AI coding agent built for the terminal. Open-source alternative to proprietary coding agents.
   * 💰 **Monetize:** Developer automation, custom extensions, enterprise licensing
 
-* [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework) ⭐ 12,841 | 🐛 699 | 🌐 Python | 📅 2026-08-17 ⭐ 7.4k - Framework for building, orchestrating and deploying AI agents and multi-agent workflows (Python and .NET).
+* [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework) ⭐ 12,864 | 🐛 689 | 🌐 Python | 📅 2026-08-18 ⭐ 7.4k - Framework for building, orchestrating and deploying AI agents and multi-agent workflows (Python and .NET).
   * 💰 **Monetize:** Enterprise agent solutions, .NET/Python agent development, consulting
 
-* [**VoltAgent**](https://github.com/VoltAgent/voltagent) ⭐ 10,370 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-10 ⭐ 5.7k - AI Agent Engineering Platform built on TypeScript. Production-ready agent orchestration.
+* [**VoltAgent**](https://github.com/VoltAgent/voltagent) ⭐ 10,371 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-10 ⭐ 5.7k - AI Agent Engineering Platform built on TypeScript. Production-ready agent orchestration.
   * 💰 **Monetize:** Agent templates, platform licensing, consulting services
 
-* [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) ⭐ 8,902 | 🐛 60 | 🌐 Python | 📅 2026-08-16 ⭐ 5.6k - Production-ready Multi AI Agents framework. Low-code solution for building and managing multi-agent LLM systems.
+* [**PraisonAI**](https://github.com/MervinPraison/PraisonAI) ⭐ 8,910 | 🐛 52 | 🌐 Python | 📅 2026-08-17 ⭐ 5.6k - Production-ready Multi AI Agents framework. Low-code solution for building and managing multi-agent LLM systems.
   * 💰 **Monetize:** Pre-built agent teams, custom workflows, managed deployments
 
-* [**HKUDS/ClawWork**](https://github.com/HKUDS/ClawWork) ⭐ 8,350 | 🐛 38 | 🌐 Python | 📅 2026-03-03 ⭐ 6k - OpenClaw as Your AI Coworker. Autonomous 24/7 task execution — $10K earned in 7 hours (case study).
+* [**HKUDS/ClawWork**](https://github.com/HKUDS/ClawWork) ⭐ 8,351 | 🐛 38 | 🌐 Python | 📅 2026-03-03 ⭐ 6k - OpenClaw as Your AI Coworker. Autonomous 24/7 task execution — $10K earned in 7 hours (case study).
   * 💰 **Monetize:** Freelancing automation, agentic task marketplace, enterprise coworker licensing
 
-* [**AgentOps**](https://github.com/AgentOps-AI/agentops) ⭐ 5,778 | 🐛 177 | 🌐 Python | 📅 2026-06-25 ⭐ 5.3k - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking. Integrates with CrewAI, Langchain, Autogen.
+* [**AgentOps**](https://github.com/AgentOps-AI/agentops) ⭐ 5,779 | 🐛 176 | 🌐 Python | 📅 2026-06-25 ⭐ 5.3k - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking. Integrates with CrewAI, Langchain, Autogen.
   * 💰 **Monetize:** Agent observability platform, enterprise monitoring, cost optimization consulting
 
 * [**Franklin**](https://github.com/BlockRunAI/franklin) ⭐ 546 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 ⭐ FEATURED - The first Autonomous Economic Agent. Natively spends USDC via x402 micropayments to execute real work — marketing campaigns, trading signals, content generation. Smart model routing, self-learning, plugin system.
@@ -587,7 +587,7 @@ Build monetizable AI agents with these frameworks:
 
 Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in production.
 
-* [**ClawX**](https://github.com/ValueCell-ai/ClawX) ⭐ 7,596 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 3.3k - Desktop app GUI for OpenClaw AI agents. Turns CLI-based AI orchestration into a visual desktop experience.
+* [**ClawX**](https://github.com/ValueCell-ai/ClawX) ⭐ 7,598 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 3.3k - Desktop app GUI for OpenClaw AI agents. Turns CLI-based AI orchestration into a visual desktop experience.
   * 💰 **Monetize:** Sell configured desktop agent packages, enterprise onboarding, white-label deployments
 
 * [**openclaw-dashboard**](https://github.com/tugcantopaloglu/openclaw-dashboard) ⭐ 698 | 🐛 5 | 🌐 HTML | 📅 2026-03-17 ⭐ 334 - Secure, real-time monitoring dashboard for OpenClaw. Auth, TOTP MFA, cost tracking, live feed, memory browser.
@@ -596,13 +596,13 @@ Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in pro
 * [**ClawApp**](https://github.com/qingchencloud/clawapp) ⭐ 441 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-07 ⭐ 208 - Mobile chat client for OpenClaw AI Agent. Streaming conversations, image support, tool calls. PWA + APK.
   * 💰 **Monetize:** Mobile agent subscription, white-label app, consumer AI assistant
 
-* [**clawmetry**](https://github.com/vivekchand/clawmetry) ⭐ 395 | 🐛 71 | 🌐 Python | 📅 2026-08-17 ⭐ 141 - Real-time observability dashboard for OpenClaw agents. See your agent think.
+* [**clawmetry**](https://github.com/vivekchand/clawmetry) ⭐ 397 | 🐛 85 | 🌐 Python | 📅 2026-08-18 ⭐ 141 - Real-time observability dashboard for OpenClaw agents. See your agent think.
   * 💰 **Monetize:** Agent monitoring SaaS, cost optimization consulting, enterprise observability
 
 * [**k8s-operator**](https://github.com/openclaw-rocks/k8s-operator) ⭐ 393 | 🐛 3 | 🌐 Go | 📅 2026-08-13 ⭐ 160 - Kubernetes operator for deploying and managing OpenClaw agent instances with production-grade security, observability, and lifecycle management.
   * 💰 **Monetize:** Enterprise K8s deployments, multi-tenant agent platforms, DevOps consulting
 
-* [**openclaw-kapso-whatsapp**](https://github.com/Enriquefft/openclaw-kapso-whatsapp) ⭐ 206 | 🐛 9 | 🌐 Go | 📅 2026-03-29 ⭐ 145 - Give your OpenClaw agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.
+* [**openclaw-kapso-whatsapp**](https://github.com/Enriquefft/openclaw-kapso-whatsapp) ⭐ 205 | 🐛 9 | 🌐 Go | 📅 2026-03-29 ⭐ 145 - Give your OpenClaw agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk.
   * 💰 **Monetize:** AI WhatsApp business bots, customer support automation, WhatsApp CRM agents
 
 * [**ClawBands**](https://github.com/SeyZ/clawbands) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-09 ⭐ 170 - Security middleware for OpenClaw AI agents. Protect against prompt injection, enforce policies, audit actions.
@@ -619,16 +619,16 @@ Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in pro
 
 ### Browser Automation Agents
 
-* [**browser-use**](https://github.com/browser-use/browser-use) ⭐ 109,474 | 🐛 356 | 🌐 Python | 📅 2026-08-16 ⭐ 78.1k - Make websites accessible for AI agents. Automate any web task with natural language.
+* [**browser-use**](https://github.com/browser-use/browser-use) ⭐ 109,559 | 🐛 363 | 🌐 Python | 📅 2026-08-18 ⭐ 78.1k - Make websites accessible for AI agents. Automate any web task with natural language.
   * 💰 **Monetize:** Web automation services, form filling bots, data extraction, testing automation
 
-* [**Stagehand**](https://github.com/browserbase/stagehand) ⭐ 23,957 | 🐛 323 | 🌐 TypeScript | 📅 2026-08-16 ⭐ 21k - The AI Browser Automation Framework. Built on Playwright with AI-powered element selection.
+* [**Stagehand**](https://github.com/browserbase/stagehand) ⭐ 23,968 | 🐛 324 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 21k - The AI Browser Automation Framework. Built on Playwright with AI-powered element selection.
   * 💰 **Monetize:** Web scraping services, testing automation, browser-based RPA
 
-* [**Skyvern**](https://github.com/Skyvern-AI/skyvern) ⭐ 22,763 | 🐛 218 | 🌐 Python | 📅 2026-08-17 ⭐ 20.4k - Automate browser-based workflows with AI. Computer vision + LLM for robust web automation.
+* [**Skyvern**](https://github.com/Skyvern-AI/skyvern) ⭐ 22,773 | 🐛 220 | 🌐 Python | 📅 2026-08-18 ⭐ 20.4k - Automate browser-based workflows with AI. Computer vision + LLM for robust web automation.
   * 💰 **Monetize:** Enterprise browser automation, form filling services, web RPA
 
-* [**LaVague**](https://github.com/lavague-ai/LaVague) ⭐ 6,385 | 🐛 104 | 🌐 Python | 📅 2025-01-21 ⭐ 6.3k - Large Action Model framework to develop AI Web Agents. Natural language to browser actions.
+* [**LaVague**](https://github.com/lavague-ai/LaVague) ⭐ 6,386 | 🐛 104 | 🌐 Python | 📅 2025-01-21 ⭐ 6.3k - Large Action Model framework to develop AI Web Agents. Natural language to browser actions.
   * 💰 **Monetize:** Web automation platform, custom browser agents, enterprise deployments
 
 * [**ShowUI**](https://github.com/showlab/ShowUI) ⭐ 1,891 | 🐛 15 | 🌐 Python | 📅 2026-04-24 ⭐ 1.7k - Vision-Language-Action model for GUI Agent & Computer Use. CVPR 2025 paper implementation.
@@ -638,16 +638,16 @@ Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in pro
 
 ## OpenClaw Skills
 
-* [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 51,987 | 🐛 2 | 📅 2026-08-13 ⭐ 24.5k - Curated collection of OpenClaw skills. 5,400+ skills filtered and categorized.
+* [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,009 | 🐛 0 | 📅 2026-08-17 ⭐ 24.5k - Curated collection of OpenClaw skills. 5,400+ skills filtered and categorized.
 
-* [**openclaw/clawhub**](https://github.com/openclaw/clawhub) ⭐ 9,319 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-15 ⭐ 1.4k - Official skill directory and marketplace.
+* [**openclaw/clawhub**](https://github.com/openclaw/clawhub) ⭐ 9,323 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-18 ⭐ 1.4k - Official skill directory and marketplace.
 
 * [**clawdbot-ai/awesome-openclaw-skills-zh**](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) ⭐ 4,137 | 🐛 20 | 📅 2026-08-14 ⭐ 1.5k - OpenClaw 中文官方技能库. Translated from Clawdbot official skills, organized by scenario.
   * 💰 **Monetize:** Chinese-language skill marketplace, localized agent services
 
-* [**BankrBot/openclaw-skills**](https://github.com/BankrBot/openclaw-skills) ⭐ 1,182 | 🐛 317 | 🌐 Shell | 📅 2026-08-15 - Polymarket, crypto trading, DeFi, leverage, portfolio management, NFTs. Multi-chain support.
+* [**BankrBot/openclaw-skills**](https://github.com/BankrBot/openclaw-skills) ⭐ 1,184 | 🐛 317 | 🌐 Shell | 📅 2026-08-15 - Polymarket, crypto trading, DeFi, leverage, portfolio management, NFTs. Multi-chain support.
 
-* [**ythx-101/x-tweet-fetcher**](https://github.com/ythx-101/x-tweet-fetcher) ⭐ 934 | 🐛 2 | 🌐 Python | 📅 2026-08-08 ⭐ 302 - Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.
+* [**ythx-101/x-tweet-fetcher**](https://github.com/ythx-101/x-tweet-fetcher) ⭐ 936 | 🐛 2 | 🌐 Python | 📅 2026-08-08 ⭐ 302 - Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.
   * 💰 **Monetize:** Social media monitoring service, sentiment analysis, lead gen
 
 * [**sundial-org/awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) ⭐ 644 | 🐛 38 | 🌐 Python | 📅 2026-03-07 ⭐ 341 - Top OpenClaw skills, curated for popularity and usefulness.
@@ -671,7 +671,7 @@ Tools for deploying, hosting, monitoring, and securing OpenClaw AI agents in pro
 
 ## Workflow Automation
 
-* [**n8n-ai-automations**](https://github.com/lucaswalter/n8n-ai-automations) ⭐ 1,592 | 🐛 0 | 📅 2026-03-02 - Advanced workflows: law firm lead gen, competitor UGC analysis, personalized outreach.
+* [**n8n-ai-automations**](https://github.com/lucaswalter/n8n-ai-automations) ⭐ 1,594 | 🐛 0 | 📅 2026-03-02 - Advanced workflows: law firm lead gen, competitor UGC analysis, personalized outreach.
   * 💰 **Monetize:** Niche workflow packages, agency white-label, training
 
 * [**n8n-workflow-builder**](https://github.com/makafeli/n8n-workflow-builder) ⭐ 540 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-19 ⭐ 479 - AI assistant for n8n via MCP. Connect Claude, ChatGPT to n8n for natural language workflow management.
@@ -694,59 +694,59 @@ Model Context Protocol (MCP) enables AI agents to connect to external tools and 
 
 ### Infrastructure
 
-* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,459 | 🐛 3,041 | 📅 2026-08-03 ⭐ 81k - The definitive collection of MCP servers. 500+ servers across all categories.
+* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,499 | 🐛 3,104 | 📅 2026-08-17 ⭐ 81k - The definitive collection of MCP servers. 500+ servers across all categories.
   * 💰 **Monetize:** Build and list premium MCP servers, consulting for MCP integration
 
-* [**Context7**](https://github.com/upstash/context7) ⭐ 60,853 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-16 ⭐ 46k - Up-to-date code documentation MCP server. Gives AI agents current docs instead of stale training data.
+* [**Context7**](https://github.com/upstash/context7) ⭐ 60,902 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 46k - Up-to-date code documentation MCP server. Gives AI agents current docs instead of stale training data.
   * 💰 **Monetize:** Documentation services, enterprise code intelligence, dev tool integrations
 
-* [**FastMCP**](https://github.com/jlowin/fastmcp) ⭐ 27,244 | 🐛 265 | 🌐 Python | 📅 2026-08-15 ⭐ 22.9k - The fast, Pythonic way to build MCP servers. Production-ready framework for building custom servers.
+* [**FastMCP**](https://github.com/jlowin/fastmcp) ⭐ 27,255 | 🐛 269 | 🌐 Python | 📅 2026-08-18 ⭐ 22.9k - The fast, Pythonic way to build MCP servers. Production-ready framework for building custom servers.
   * 💰 **Monetize:** Custom MCP server development, consulting, enterprise integrations
 
-* [**MCP-Use**](https://github.com/mcp-use/mcp-use) ⭐ 10,493 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-14 ⭐ 9.2k - Easiest way to interact with MCP servers using custom agents. Agent-first MCP client.
+* [**MCP-Use**](https://github.com/mcp-use/mcp-use) ⭐ 10,497 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 9.2k - Easiest way to interact with MCP servers using custom agents. Agent-first MCP client.
   * 💰 **Monetize:** Agent development services, MCP integration consulting
 
 ### Data & APIs
 
-* [**MindsDB**](https://github.com/mindsdb/mindsdb) ⭐ 39,593 | 🐛 3 | 🌐 Makefile | 📅 2026-08-13 ⭐ 38.5k - Federated Query Engine for AI. The only MCP Server you'll ever need for database access.
+* [**MindsDB**](https://github.com/mindsdb/mindsdb) ⭐ 39,601 | 🐛 2 | 🌐 Makefile | 📅 2026-08-13 ⭐ 38.5k - Federated Query Engine for AI. The only MCP Server you'll ever need for database access.
   * 💰 **Monetize:** Data pipeline services, enterprise AI data integration, managed MindsDB hosting
 
-* [**GitHub MCP Server**](https://github.com/github/github-mcp-server) ⭐ 32,295 | 🐛 377 | 🌐 Go | 📅 2026-08-14 ⭐ 27k - GitHub's official MCP server. Agents can manage repos, issues, PRs, code search.
+* [**GitHub MCP Server**](https://github.com/github/github-mcp-server) ⭐ 32,321 | 🐛 380 | 🌐 Go | 📅 2026-08-17 ⭐ 27k - GitHub's official MCP server. Agents can manage repos, issues, PRs, code search.
   * 💰 **Monetize:** DevOps automation, code review agents, repo management bots
 
-* [**GenAI Toolbox**](https://github.com/googleapis/genai-toolbox) ⭐ 16,183 | 🐛 243 | 🌐 Go | 📅 2026-08-17 ⭐ 13k - Google's MCP Toolbox for Databases. Connect AI to PostgreSQL, MySQL, BigQuery, Spanner.
+* [**GenAI Toolbox**](https://github.com/googleapis/genai-toolbox) ⭐ 16,190 | 🐛 244 | 🌐 Go | 📅 2026-08-18 ⭐ 13k - Google's MCP Toolbox for Databases. Connect AI to PostgreSQL, MySQL, BigQuery, Spanner.
   * 💰 **Monetize:** Database automation, data extraction services, analytics pipelines
 
-* [**Git-MCP**](https://github.com/idosal/git-mcp) ⭐ 8,332 | 🐛 77 | 🌐 TypeScript | 📅 2026-05-08 ⭐ 7.6k - Free remote MCP server for any GitHub project. Eliminates code hallucinations with real repo context.
+* [**Git-MCP**](https://github.com/idosal/git-mcp) ⭐ 8,334 | 🐛 77 | 🌐 TypeScript | 📅 2026-05-08 ⭐ 7.6k - Free remote MCP server for any GitHub project. Eliminates code hallucinations with real repo context.
   * 💰 **Monetize:** Code accuracy services, developer tool integrations
 
-* [**blockrun-mcp**](https://github.com/BlockRunAI/blockrun-mcp) ⭐ 390 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 465 - Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. Also available hosted at [`mcp.blockrun.ai`](https://github.com/BlockRunAI/blockrun-mcp-server) (zero install).
+* [**blockrun-mcp**](https://github.com/BlockRunAI/blockrun-mcp) ⭐ 391 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 465 - Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. Also available hosted at [`mcp.blockrun.ai`](https://github.com/BlockRunAI/blockrun-mcp-server) (zero install).
   * 💰 **Monetize:** Build paid data agents, package research workflows, charge per-report with USDC micropayments
 
 ### Browser & Automation
 
-* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) ⭐ 36,190 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-12 ⭐ 27.3k - Microsoft's official Playwright MCP server. Full browser automation for AI agents.
+* [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) ⭐ 36,223 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 27.3k - Microsoft's official Playwright MCP server. Full browser automation for AI agents.
   * 💰 **Monetize:** Web scraping services, testing automation, browser-based RPA
 
-* [**Figma Context MCP**](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,668 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-07 ⭐ 13.2k - Provides Figma layout info to AI coding agents. Design-to-code automation.
+* [**Figma Context MCP**](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,671 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-07 ⭐ 13.2k - Provides Figma layout info to AI coding agents. Design-to-code automation.
   * 💰 **Monetize:** Design-to-code services, UI automation, Figma workflow tools
 
-* [**MCP Chrome**](https://github.com/hangwin/mcp-chrome) ⭐ 12,309 | 🐛 224 | 🌐 TypeScript | 📅 2026-01-06 ⭐ 10.4k - Chrome extension MCP server. Browser automation, content analysis, semantic search.
+* [**MCP Chrome**](https://github.com/hangwin/mcp-chrome) ⭐ 12,316 | 🐛 224 | 🌐 TypeScript | 📅 2026-01-06 ⭐ 10.4k - Chrome extension MCP server. Browser automation, content analysis, semantic search.
   * 💰 **Monetize:** Chrome automation bots, content extraction, research automation
 
 ### Security & Research
 
-* [**Serena**](https://github.com/oraios/serena) ⭐ 28,120 | 🐛 107 | 🌐 Python | 📅 2026-08-16 ⭐ 20.3k - Coding agent toolkit with semantic retrieval and editing. Production-ready code intelligence.
+* [**Serena**](https://github.com/oraios/serena) ⭐ 28,155 | 🐛 110 | 🌐 Python | 📅 2026-08-16 ⭐ 20.3k - Coding agent toolkit with semantic retrieval and editing. Production-ready code intelligence.
   * 💰 **Monetize:** Code refactoring services, codebase analysis, developer tools
 
-* [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai) ⭐ 11,107 | 🐛 104 | 🌐 Python | 📅 2026-08-03 ⭐ 6.9k - MCP server with 150+ cybersecurity tools. Automated pentesting, vulnerability discovery, bug bounty automation.
+* [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai) ⭐ 11,158 | 🐛 104 | 🌐 Python | 📅 2026-08-03 ⭐ 6.9k - MCP server with 150+ cybersecurity tools. Automated pentesting, vulnerability discovery, bug bounty automation.
   * 💰 **Monetize:** Security auditing services, bug bounty automation, penetration testing
 
 ***
 
 ## Research & Analysis
 
-* [**GPT Researcher**](https://github.com/assafelovic/gpt-researcher) ⭐ 29,006 | 🐛 176 | 🌐 Python | 📅 2026-07-18 ⭐ 25.3k - Autonomous agent that conducts deep research on any topic. Generates comprehensive reports from multiple sources.
+* [**GPT Researcher**](https://github.com/assafelovic/gpt-researcher) ⭐ 29,021 | 🐛 177 | 🌐 Python | 📅 2026-07-18 ⭐ 25.3k - Autonomous agent that conducts deep research on any topic. Generates comprehensive reports from multiple sources.
   * 💰 **Monetize:** Research-as-a-service, market analysis reports, competitive intelligence, due diligence automation
 
 ***
@@ -755,21 +755,21 @@ Model Context Protocol (MCP) enables AI agents to connect to external tools and 
 
 ### Awesome Lists
 
-* [**500-AI-Agents-Projects**](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 36,583 | 🐛 72 | 🌐 Python | 📅 2026-07-27 - Curated AI agent use cases across industries (healthcare, finance, education, retail).
+* [**500-AI-Agents-Projects**](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 36,631 | 🐛 72 | 🌐 Python | 📅 2026-07-27 - Curated AI agent use cases across industries (healthcare, finance, education, retail).
 
-* [**hesamsheikh/awesome-openclaw-usecases**](https://github.com/hesamsheikh/awesome-openclaw-usecases) ⭐ 31,661 | 🐛 76 | 📅 2026-03-24 ⭐ 15k - Community collection of OpenClaw use cases for making life (and money) easier.
+* [**hesamsheikh/awesome-openclaw-usecases**](https://github.com/hesamsheikh/awesome-openclaw-usecases) ⭐ 31,659 | 🐛 76 | 📅 2026-03-24 ⭐ 15k - Community collection of OpenClaw use cases for making life (and money) easier.
 
-* [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,470 | 🐛 930 | 📅 2026-07-09 ⭐ 25.7k - Comprehensive list of AI autonomous agents. Well-maintained with categories.
+* [**e2b-dev/awesome-ai-agents**](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,506 | 🐛 933 | 📅 2026-07-09 ⭐ 25.7k - Comprehensive list of AI autonomous agents. Well-maintained with categories.
 
-* [**HKUDS/ClawWork**](https://github.com/HKUDS/ClawWork) ⭐ 8,350 | 🐛 38 | 🌐 Python | 📅 2026-03-03 ⭐ 6k - Case study: OpenClaw as autonomous AI coworker earning $10K in 7 hours.
+* [**HKUDS/ClawWork**](https://github.com/HKUDS/ClawWork) ⭐ 8,351 | 🐛 38 | 🌐 Python | 📅 2026-03-03 ⭐ 6k - Case study: OpenClaw as autonomous AI coworker earning $10K in 7 hours.
 
-* [**AlexAnys/awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ⭐ 4,418 | 🐛 37 | 📅 2026-07-12 ⭐ 1.3k - 🇨🇳 OpenClaw 中文最佳用例大全 | 40 real-world scenarios adapted for China (domestic services + global platforms). Beginner-friendly Chinese guide.
+* [**AlexAnys/awesome-openclaw-usecases-zh**](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ⭐ 4,420 | 🐛 37 | 📅 2026-07-12 ⭐ 1.3k - 🇨🇳 OpenClaw 中文最佳用例大全 | 40 real-world scenarios adapted for China (domestic services + global platforms). Beginner-friendly Chinese guide.
 
-* [**awesome-ai-agents**](https://github.com/slavakurilyak/awesome-ai-agents) ⭐ 2,176 | 🐛 278 | 🌐 Python | 📅 2025-09-09 - 300+ agentic AI resources.
+* [**awesome-ai-agents**](https://github.com/slavakurilyak/awesome-ai-agents) ⭐ 2,179 | 🐛 279 | 🌐 Python | 📅 2025-09-09 - 300+ agentic AI resources.
 
-* [**awesome\_ai\_agents**](https://github.com/jim-schwoebel/awesome_ai_agents) ⭐ 1,938 | 🐛 222 | 📅 2026-03-28 - 1,500+ AI agent resources and tools.
+* [**awesome\_ai\_agents**](https://github.com/jim-schwoebel/awesome_ai_agents) ⭐ 1,940 | 🐛 223 | 📅 2026-03-28 - 1,500+ AI agent resources and tools.
 
-* [**MakeMoneyWithAI**](https://github.com/garylab/MakeMoneyWithAI) ⭐ 681 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - Curated list of open-source AI projects for generating income.
+* [**MakeMoneyWithAI**](https://github.com/garylab/MakeMoneyWithAI) ⭐ 682 | 🐛 1 | 🌐 Python | 📅 2026-08-18 - Curated list of open-source AI projects for generating income.
 
 * [**AI-Agent-Platforms-Automation-Tools**](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools) ⭐ 25 | 🐛 6 | 📅 2025-10-30 - Directory of autonomous AI agents, frameworks, platforms.
 
@@ -777,8 +777,8 @@ Model Context Protocol (MCP) enables AI agents to connect to external tools and 
 
 ### Infrastructure
 
-* [**ClawRouter v0.12.200**](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,558 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 6.5k - Smart LLM router, save <!-- br:savings.autoVsBaselinePct -->87<!-- /br:savings.autoVsBaselinePct -->% on inference. 16-model curated allowlist, one USDC wallet. **Features:** Response caching, 4 routing profiles, `/imagegen`, `clawrouter report`, three-strike escalation, `/debug`, tool-calling filter, session persistence, `clawrouter doctor`, multilingual support.
-* [**blockrun-mcp**](https://github.com/BlockRunAI/blockrun-mcp) ⭐ 390 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 465 - Live data MCP server for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.
+* [**ClawRouter v0.12.200**](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,561 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 6.5k - Smart LLM router, save <!-- br:savings.autoVsBaselinePct -->87<!-- /br:savings.autoVsBaselinePct -->% on inference. 16-model curated allowlist, one USDC wallet. **Features:** Response caching, 4 routing profiles, `/imagegen`, `clawrouter report`, three-strike escalation, `/debug`, tool-calling filter, session persistence, `clawrouter doctor`, multilingual support.
+* [**blockrun-mcp**](https://github.com/BlockRunAI/blockrun-mcp) ⭐ 391 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 ⭐ 465 - Live data MCP server for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.
 * **BlockRun SDKs** — OpenAI-compatible, pay-per-call USDC, zero rate limits: [Python](https://github.com/BlockRunAI/blockrun-llm) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-08-17 · [TypeScript](https://github.com/BlockRunAI/blockrun-llm-ts) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 · [Go](https://github.com/BlockRunAI/blockrun-llm-go) ⭐ 0 | 🐛 7 | 🌐 Go | 📅 2026-08-17 · [XRPL/RLUSD](https://github.com/BlockRunAI/blockrun-llm-xrpl) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 * [**BlockRun.ai**](https://blockrun.ai) - Pay-per-request AI via x402 micropayments.
 * [**blockrun-mcp-server**](https://github.com/BlockRunAI/blockrun-mcp-server) - Hosted MCP at `mcp.blockrun.ai` — one URL, any agent, zero install.
@@ -872,4 +872,4 @@ To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
